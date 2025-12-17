@@ -1,76 +1,182 @@
-# EDGAR-Haystack
+# EDGAR Haystack Experiments
 
-This repository explores a reproduction of the *Beyond the Haystack* (NLLP 2025) study, adapted to long-form **financial documents** using the **EDGAR-CORPUS (10-K filings)** dataset and **small open-weight instruction models**.
+Recreating "Beyond the Haystack" paper findings using SEC 10-K filings and Llama-3-8B-Instruct on Lambda Cloud GPUs.
 
-The goal is to evaluate how well a model such as **Meta-Llama-3-8B-Instruct** can retrieve and reason over sparse information embedded deep within long SEC filings, following the experimental spirit of the original paper.
+## What This Is
 
----
+Testing how small models retrieve information from financial documents under different shuffling conditions to find interesting patterns.
 
-## Context & Goal
+**Core Question**: Do models perform differently on shuffled vs unshuffled financial text? Which question types show interesting patterns?
 
-The original *Beyond the Haystack* paper studies the ability of large language models to retrieve a specific “needle” of information from long contexts.
+## Current Status
 
-This project reproduces that setup with:
-- Real-world financial text (EDGAR 10-K filings)
-- A smaller, open-weight instruction-tuned model
-- Commodity cloud GPU hardware
+### ✅ Working
+- `notebooks/Beyond_The_Haystack_Recreation_Using_Edgar_V2.ipynb` - Baseline experiment with single-instance word retrieval
+- Shows J-curve pattern: models do better on globally shuffled text
+- Uses `c3po-ai/edgar-corpus` dataset (10-K filings)
 
-The emphasis is on **reproducibility, long-context behavior, and failure analysis**, rather than pushing absolute performance.
+### 🚧 Next Steps
+1. Automate question/answer generation for different query types
+2. Extract answers using simple regex patterns (like iahd repo does)
+3. Run batch experiments across multiple documents
+4. Analyze which question types show shuffle sensitivity
 
----
+## Project Structure
 
-## Reference Paper
+```
+EDGAR-Haystack/
+├── notebooks/
+│   ├── Beyond_The_Haystack_Recreation_Using_Edgar_V2.ipynb  # Current working baseline
+│   └── [new notebooks as needed]
+│
+├── requirements.txt                  # Dependencies
+├── Beyond_Haystack_RS_Paper.pdf     # Original paper
+└── README.md                         # This file
 
-**Beyond the Haystack: Evaluating the Retrieval Capabilities of Large Language Models**  
-NLLP 2025  
-https://aclanthology.org/2025.nllp-1.5.pdf
+# Legacy/Unused (can ignore or delete)
+├── edgar_haystack/                   # Old package structure - not needed
+├── scripts/                          # Old automation - not needed  
+├── configs/                          # Old configs - not needed
+└── *.md files                        # Over-engineered docs - ignore
+```
 
----
+## Quick Start on Lambda Cloud
 
-## Dataset
+### 1. Launch GPU Instance
+```bash
+export LAMBDA_API_KEY="your_key_here"
 
-- **EDGAR-CORPUS**
-- Source: `c3po-ai/edgar-corpus` (Hugging Face)
-- Content: SEC 10-K financial filings
+curl --user "${LAMBDA_API_KEY}:" \
+  --request POST "https://cloud.lambda.ai/api/v1/instance-operations/launch" \
+  --data '{
+    "region_name":"us-west-1",
+    "instance_type_name":"gpu_1x_a10",
+    "ssh_key_names":["your-ssh-key"],
+    "name":"edgar-experiment"
+  }'
+```
 
-The dataset is used to construct long contexts into which target facts or statements are embedded at varying depths.
+### 2. Get Instance URL
+```bash
+# Save instance ID from previous command, then:
+curl --user "${LAMBDA_API_KEY}:" \
+  --request GET "https://cloud.lambda.ai/api/v1/instances/<INSTANCE_ID>"
+```
 
----
+### 3. Open Jupyter and Run Notebook
+- Open the Jupyter URL from the response
+- Upload `Beyond_The_Haystack_Recreation_Using_Edgar_V2.ipynb`
+- Run cells
 
-## Model
+## The Experiment
 
-- **Meta-Llama-3-8B-Instruct**
-- Hugging Face: `meta-llama/Meta-Llama-3-8B-Instruct`
+### What We're Testing
+1. Load 10-K financial filings from HuggingFace
+2. Create different shuffle conditions (no shuffle → local → global)
+3. Ask questions about the documents
+4. Compare accuracy across conditions
 
-No fine-tuning is assumed initially; the model is evaluated in a zero-shot or prompt-based setting.
+### Question Types to Test
+- **Single-instance words** (already working)
+- **Financial facts**: "What was the total revenue?"
+- **Entity names**: "Who is the auditor?"
+- **Dates**: "What is the fiscal year end?"
+- **Numbers**: "What were total assets?"
 
----
+### Answer Extraction (Simple Approach)
+Following the iahd repo pattern - use regex to extract answers:
 
-## Compute Environment
+```python
+def extract_answer(model_response, answer_type):
+    """Simple regex-based answer extraction"""
+    if answer_type == 'word':
+        return re.search(r'\b\w+\b', model_response).group(0)
+    elif answer_type == 'number':
+        return re.search(r'\$?[\d,]+\.?\d*', model_response).group(0)
+    elif answer_type == 'date':
+        return re.search(r'\d{1,2}/\d{1,2}/\d{4}', model_response).group(0)
+    # etc...
+```
 
-- **Lambda Cloud GPU**
-- Hardware: A10 or A100
-- Experiments are designed to be runnable on a single GPU.
+## Next Implementation Steps
 
----
+### Step 1: Begin using LLama-3-8B-Instruct and Lambda Cloud 
+Switch from Qwen-7B to Meta's Llama-3-8B-Instruct model hosted on Lambda Cloud A10 GPU for better performance and cost efficiency. 
 
-## Task Description (High-Level)
+### Step 2: Question Template System
+Create a simple function that generates questions from documents:
 
-Each evaluation example consists of:
-1. A long EDGAR 10-K filing
-2. A target piece of information embedded within the document
-3. A query requiring retrieval or identification of that information
+```python
+def generate_questions(document_text):
+    """Generate different question types from a document"""
+    questions = []
+    
+    # Single instance word (already working)
+    word = find_single_occurrence_word(document_text)
+    questions.append({
+        'type': 'single_word',
+        'question': f'Find a word that appears exactly once in the text.',
+        'answer': word
+    })
+    
+    # Extract financial facts with regex
+    revenue = re.search(r'revenue.*?\$([0-9,]+)', document_text, re.I)
+    if revenue:
+        questions.append({
+            'type': 'financial_fact',
+            'question': 'What was the total revenue?',
+            'answer': revenue.group(1)
+        })
+    
+    # Add more question types...
+    return questions
+```
 
-Model outputs are analyzed for correctness, partial retrieval, or failure to locate the embedded content.
+### Step 3: Batch Processing
+Run multiple documents and save results:
 
----
+```python
+results = []
+for doc in documents[:50]:  # Test on 50 docs
+    questions = generate_questions(doc)
+    for q in questions:
+        for shuffle_type in ['standard', 'local', 'global']:
+            shuffled_text = apply_shuffle(doc, shuffle_type)
+            response = query_model(shuffled_text, q['question'])
+            answer = extract_answer(response, q['type'])
+            
+            results.append({
+                'doc_id': doc['id'],
+                'question_type': q['type'],
+                'shuffle': shuffle_type,
+                'correct': (answer == q['answer'])
+            })
 
-## Repository Structure (Tentative)
+# Save to CSV
+pd.DataFrame(results).to_csv('results.csv')
+```
 
-```text
-edgar-haystack/
-├── data/           # dataset processing and constructed examples
-├── scripts/        # experiment and evaluation scripts
-├── notebooks/      # exploratory analysis and visualization
-├── experiments/    # configs and outputs
-└── README.md
+### Step 3: Analyze Patterns
+Simple analysis of which question types show interesting shuffle effects:
+
+```python
+df = pd.read_csv('results.csv')
+accuracy_by_type = df.groupby(['question_type', 'shuffle'])['correct'].mean()
+print(accuracy_by_type)
+```
+
+## Dataset & Model
+
+- **Dataset**: `c3po-ai/edgar-corpus` (SEC 10-K Item 7 sections)
+- **Model**: `meta-llama/Meta-Llama-3-8B-Instruct`
+- **Compute**: Lambda Cloud A10 GPU ($0.75/hour)
+
+## Key Insight from Paper
+
+The paper found models do **better** on globally shuffled (incoherent) text for certain tasks. This suggests they're not really "reading" but pattern matching. We want to see if this holds for financial documents and which question types show this pattern.
+
+## References
+
+- Paper: https://aclanthology.org/2025.nllp-1.5.pdf
+- Dataset: https://huggingface.co/datasets/c3po-ai/edgar-corpus
+- Answer extraction approach: https://github.com/harryila/iahd
