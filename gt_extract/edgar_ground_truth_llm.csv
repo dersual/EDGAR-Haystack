@@ -1,0 +1,501 @@
+cik,year,filename,incorporation_state,incorporation_year,employee_count,fiscal_year_end,headquarters_state,company_product,ceo_lastname
+92116,1993,92116_1993.txt,California,1929,486,December 31,California,Water distribution and sale,NULL
+103730,1993,103730_1993.txt,Delaware,1962,NULL,December 31,Pennsylvania,Electronic components manufacturing,NULL
+100240,1993,100240_1993.txt,Georgia,1965,NULL,December 31,Georgia,Entertainment and news broadcasting,NULL
+58696,1993,58696_1993.txt,Florida,1954,1660,NULL,Florida,"Homebuilding and real estate. NOT_FOUND. (Note: The company has multiple business activities, includ",NULL
+46207,1993,46207_1993.txt,Hawaii,1891,4500,December 31,Hawaii,Electric utility services,NULL
+60041,1993,60041_1993.txt,Connecticut,1953,4000,December 31,Connecticut,Adhesives and sealants,NULL
+55387,1993,55387_1993.txt,Kentucky,NULL,2260,December 31,Kentucky,Electric power generation,NULL
+40878,1993,40878_1993.txt,Virginia,1947,4729,December 31,NULL,Telecommunications services,Goode
+53540,1993,53540_1993.txt,NULL,1968,NULL,NULL,NULL,NOT_FOUND.  (The company is not engaged in any business operations.)  (Note: The company has been in,NULL
+800287,1993,800287_1993.txt,Delaware,1978,25000,December 31,Illinois,Hazardous waste management services,NULL
+50178,1993,50178_1993.txt,Indiana,1900,NULL,December 31,NULL,Telecommunications services,NULL
+725625,1993,725625_1993.txt,Delaware,1977,NULL,December 31,Louisiana,Natural gas pipeline operations,NULL
+66479,1993,66479_1993.txt,Massachusetts,1954,3664,December 31,Massachusetts,Membrane separations technology,NULL
+700674,1993,700674_1993.txt,NULL,1985,4271,December 31,Connecticut,Freight forwarding services. NYFS03...:\16\12316\0001\7120\FRM32894.P9B NYFS03,NULL
+854094,1993,854094_1993.txt,Indiana,1934,5000,December 29,Indiana,Newspaper publishing. Read this SEC 10-K filing excerpt and answer the question,NULL
+846972,1993,846972_1993.txt,Delaware,1985,NULL,December 31,Pennsylvania,Refractory products and services. NOT_FOUND. Refractory products and services. Refractory products a,NULL
+59478,1993,59478_1993.txt,Indiana,1901,5600,NULL,Indiana,Pharmaceutical products,NULL
+5550,1993,5550_1993.txt,Wyoming,1955,4,December 31,Wyoming,Byproduct material disposal. NOT_FOUND. (Note: The company's main business activity is byproduct mat,NULL
+743443,1993,743443_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22767,1993,22767_1993.txt,Texas,1988,4500,December 31,New Mexico,Electricity sales and distribution,NULL
+738339,1993,738339_1993.txt,Delaware,1987,12500,December 31,NULL,Hospital services,L.)
+29854,1993,29854_1993.txt,Delaware,1902,5697,December 31,Michigan,Automotive parts manufacturing,NULL
+97210,1993,97210_1993.txt,Massachusetts,1960,4000,December 31,NULL,Electronic test systems,NULL
+7383,1993,7383_1993.txt,Ohio,1917,6600,December 31,Texas,Specialty steel production,NULL
+80661,1993,80661_1993.txt,Florida,1965,NULL,December 31,Ohio,Insurance services,NULL
+711404,1993,711404_1993.txt,Delaware,1980,NULL,NULL,NULL,Healthcare products and services,NULL
+75042,1993,75042_1993.txt,Delaware,1929,6400,December 31,Wisconsin,Apparel manufacturing,NULL
+18497,1993,18497_1993.txt,Delaware,1968,257,December 31,NULL,Consumer finance business,NULL
+33565,1993,33565_1993.txt,California,1930,3755,December 31,Indiana,Electrical wire and cable,NULL
+745287,1993,745287_1993.txt,NULL,1984,4151,December 31,Georgia,Iron casting manufacturing,NULL
+93469,1993,93469_1993.txt,Delaware,1925,4800,December 31,NULL,Alarm and security products,NULL
+354869,1993,354869_1993.txt,Ohio,1981,2800,December 31,Ohio,Banking and financial services,NULL
+36966,1993,36966_1993.txt,Tennessee,1968,5653,December 31,NULL,Banking services,NULL
+799036,1993,799036_1993.txt,Delaware,1982,1500,December 31,Illinois,Health and life insurance. Read this SEC 10-K filing excerpt and answer the question,NULL
+25890,1993,25890_1993.txt,Pennsylvania,1891,21254,December 31,NULL,Packaging manufacturing,NULL
+846902,1993,846902_1993.txt,Delaware,1985,2800,December 31,NULL,Plastic products manufacturing,NULL
+764764,1993,764764_1993.txt,NULL,1993,NULL,December 31,Tennessee,Financing of Caterpillar products. Read this SEC 10-K filing excerpt and answer the question,NULL
+717605,1993,717605_1993.txt,Arizona,1948,NULL,NULL,California,Advanced composites manufacturing,Lee
+92487,1993,92487_1993.txt,Delaware,1993,2033,December 31,NULL,Electricity generation and distribution,McG
+79166,1993,79166_1993.txt,Delaware,NULL,130,December 31,NULL,Publishing scientific journals,Tash
+355883,1993,355883_1993.txt,NULL,NULL,NULL,NULL,NULL,NOT_FOUND,NULL
+865227,1993,865227_1993.txt,NULL,1990,NULL,NULL,NULL,"Retail consumer receivables.  (Note: This is the main business activity of the company, which is to ",NULL
+101320,1993,101320_1993.txt,New Jersey,1970,NULL,December 31,New Jersey,Banking services,NULL
+64605,1993,64605_1993.txt,Delaware,1975,1,February 28,NULL,NOT_FOUND. (The company has no active business and is looking to combine with another company.)  (No,Shuster
+884033,1993,884033_1993.txt,NULL,1992,NULL,NULL,NULL,"Mortgage loan collection. NOT_FOUND. (The company is a trust fund, and its main activity is collecti",NULL
+17797,1993,17797_1993.txt,North Carolina,1926,8027,December 31,NULL,Electricity generation and distribution,NULL
+216228,1993,216228_1993.txt,Delaware,1920,98000,December 31,NULL,Diversified global enterprise,NULL
+791445,1993,791445_1993.txt,New Jersey,1982,24,NULL,New Jersey,Casino hotel operations,NULL
+719264,1993,719264_1993.txt,Tennessee,1982,149,December 31,Tennessee,Retail banking services,NULL
+92050,1993,92050_1993.txt,Delaware,1947,NULL,December 31,NULL,Refrigeration services. Liquefied petroleum gas. Natural gas and oil interests. Minority investments,NULL
+788043,1993,788043_1993.txt,NULL,NULL,NULL,NULL,Pennsylvania,NULL,NULL
+29989,1993,29989_1993.txt,Delaware,1985,14400,December 31,New York,Advertising services. Read this SEC 10-K filing excerpt and answer the question,NULL
+702163,1993,702163_1993.txt,New Jersey,1982,8780,December 31,New Jersey,Commercial banking services,NULL
+75252,1993,75252_1993.txt,Virginia,1926,1674,December 31,Florida,Medical/surgical supplies distribution,NULL
+65660,1993,65660_1993.txt,Michigan,1956,5900,NULL,Michigan,Banking and financial services,NULL
+108721,1993,108721_1993.txt,California,1975,35000,December 31,NULL,Automotive parts and accessories. Read this SEC 10-K filing excerpt and answer the question,NULL
+37748,1993,37748_1993.txt,California,1924,NULL,NULL,NULL,Engineering and construction services,NULL
+701345,1993,701345_1993.txt,Delaware,1987,12500,March 31,Virginia,Airline transportation services,Schofield
+876858,1993,876858_1993.txt,NULL,1991,NULL,NULL,NULL,Retail consumer receivables.  (Note: This answer is based on the information provided in the excerpt,NULL
+310431,1993,310431_1993.txt,California,1979,12507,December 31,Illinois,Contracting and industrial services,NULL
+764037,1993,764037_1993.txt,Delaware,1983,NULL,NULL,Florida,Computer hardware manufacturing,NULL
+201461,1993,201461_1993.txt,California,1968,NULL,NULL,California,Commercial banking services. Read this SEC 10-K filing excerpt and answer the question,NULL
+26780,1993,26780_1993.txt,Ohio,1905,36000,December 31,NULL,Manufacturing and engineering products,NULL
+741612,1993,741612_1993.txt,Texas,1983,5000,December 31,Texas,"Electric power generation. TNP ENTERPRISES, INC. FORM 10-K. TNP ENTERPRISES, INC. FORM 10-K",NULL
+104669,1993,104669_1993.txt,Delaware,1920,23000,NULL,New Jersey,Pharmaceutical products,NULL
+797463,1993,797463_1993.txt,Delaware,1943,33550,December 31,NULL,Financial services company,NULL
+51720,1993,51720_1993.txt,Delaware,1925,12500,NULL,NULL,Electricity generation and distribution,Stoppel
+100826,1993,100826_1993.txt,Missouri,1922,6417,December 31,NULL,Electric utility services,NULL
+40533,1993,40533_1993.txt,Delaware,1952,30500,December 31,NULL,Defense and aerospace products. - 5 - - 6 - - 7 - - 8 - - 9 - - 10 - -,NULL
+101830,1993,101830_1993.txt,Kansas,1938,50500,December 31,Kansas,Telecommunications services,NULL
+33619,1993,33619_1993.txt,NULL,1967,2800,October 31,NULL,Manufacturing equipment and services,NULL
+215419,1993,215419_1993.txt,Pennsylvania,1969,NULL,NULL,New Jersey,Electronic Signatures systems,NULL
+40454,1993,40454_1993.txt,Missouri,1946,45000,December 31,Missouri,"Banking services. NOT_FOUND. (The company is a bank holding company, but its main product/service is",NULL
+77227,1993,77227_1993.txt,Pennsylvania,1919,5000,December 31,NULL,Electricity generation and distribution,NULL
+65358,1993,65358_1993.txt,Delaware,1980,8900,NULL,New York,NOT_FOUND (The company has multiple business segments and activities.)  (Note: The company has four ,NULL
+54502,1993,54502_1993.txt,Kansas,1927,12500,December 31,Colorado,Natural gas services,NULL
+37785,1993,37785_1993.txt,NULL,NULL,12500,NULL,NULL,NULL,NULL
+893486,1993,893486_1993.txt,Texas,1992,12500,NULL,NULL,Oil and gas production,NULL
+91576,1993,91576_1993.txt,Florida,1958,12038,December 31,Ohio,Banking and financial services,NULL
+790603,1993,790603_1993.txt,Illinois,1986,NULL,NULL,NULL,"Real estate investments. NOT_FOUND. (The company is not a service provider, but rather an investor i",NULL
+94601,1993,94601_1993.txt,Delaware,1929,6000,December 31,Massachusetts,"Engineering and construction services. Form 10-K 1993 Stone & Webster, Incorporated Item 1. Business",NULL
+92088,1993,92088_1993.txt,Alabama,1967,72000,December 31,NULL,Telecommunications services,NULL
+832427,1993,832427_1993.txt,California,1971,7700,December 31,California,Clinical laboratory services,NULL
+83047,1993,83047_1993.txt,NULL,1817,1950,December 31,NULL,Property and casualty insurance. Read this SEC 10-K filing excerpt and answer the question,NULL
+893928,1993,893928_1993.txt,Arkansas,1949,16525,December 31,NULL,Electric utility services,NULL
+789292,1993,789292_1993.txt,NULL,1992,NULL,NULL,NULL,Cable television services,Officer
+95301,1993,95301_1993.txt,New York,1929,25000,December 31,Missouri,Diversified industrial products,NULL
+7536,1993,7536_1993.txt,New York,1985,4600,NULL,New York,Electronics distribution. Read this SEC 10-K filing excerpt and answer the question,NULL
+854884,1993,854884_1993.txt,NULL,1836,6158,December,NULL,Railroad transportation services,NULL
+10456,1993,10456_1993.txt,Delaware,1931,200000,December 31,NULL,Health care products and services,NULL
+53347,1993,53347_1993.txt,North Carolina,1968,1825,December 31,NULL,Insurance and broadcasting. I-11. NOT_FOUND. I-12. NOT_FOUND. I-13. NOT_FOUND. I-14. NOT,Stonecipher
+882240,1993,882240_1993.txt,NULL,NULL,NULL,NULL,NULL,Auto receivables financing. NOT_FOUND. (Note: The company is actually involved in the business of fi,NULL
+74208,1993,74208_1993.txt,Virginia,1972,12500,NULL,NULL,Apartment property ownership,NULL
+352363,1993,352363_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+815917,1993,815917_1993.txt,Arkansas,1943,2786,NULL,Missouri,Brokerage services,NULL
+14957,1993,14957_1993.txt,Delaware,1993,1803,December 31,Ohio,Engineered materials manufacturing,NULL
+9892,1993,9892_1993.txt,New Jersey,1923,8450,December 31,New Jersey,Medical device manufacturer. I-5,NULL
+860713,1993,860713_1993.txt,Texas,1983,327,December 31,NULL,Oil and gas exploration,NULL
+66904,1993,66904_1993.txt,Alabama,1945,12500,NULL,NULL,Electric power generation. I-4,HARRIS
+740763,1993,740763_1993.txt,Pennsylvania,1984,8428,December 31,Pennsylvania,Engineering and consulting services,NULL
+315189,1993,315189_1993.txt,Delaware,1958,NULL,NULL,NULL,Agricultural equipment manufacturing,NULL
+93675,1993,93675_1993.txt,New York,1922,1100,December 31,New York,Home building and construction,NULL
+847322,1993,847322_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+836400,1993,836400_1993.txt,Delaware,1988,952,December 31,Texas,Soft drink manufacturing,NULL
+771950,1993,771950_1993.txt,Delaware,1981,34101300000,NULL,California,Radio network broadcasting,NULL
+20164,1993,20164_1993.txt,Michigan,1926,3100,December 31,Michigan,Automotive financing services,NULL
+15393,1993,15393_1993.txt,NULL,1947,NULL,NULL,Maryland,Information services and publishing,NULL
+36270,1993,36270_1993.txt,New York,1969,3655,December 31,New York,Commercial banking services,NULL
+40874,1993,40874_1993.txt,Delaware,1926,7184,December 31,NULL,Telecommunications services,NULL
+812701,1993,812701_1993.txt,Pennsylvania,1942,1320,December 31,Pennsylvania,Activated carbon products,NULL
+81061,1993,81061_1993.txt,Florida,1921,29000,NULL,NULL,Retail food supermarkets,NULL
+92195,1993,92195_1993.txt,Indiana,1912,774,December 31,Indiana,Electric and gas utilities,NULL
+828530,1993,828530_1993.txt,NULL,1987,NULL,June 30,Florida,NOT_FOUND,NULL
+67646,1993,67646_1993.txt,Maryland,1923,6025,NULL,NULL,Electric utility services,Bennett
+49423,1993,49423_1993.txt,Connecticut,1969,12500,December 31,Connecticut,Public water supply,"McGregor,"
+814153,1993,814153_1993.txt,Colorado,1987,NULL,December 31,NULL,NOT_FOUND,NULL
+77242,1993,77242_1993.txt,NULL,NULL,NULL,NULL,Pennsylvania,NULL,NULL
+20947,1993,20947_1993.txt,Ohio,1985,6748,December 31,Ohio,Electric energy sales,NULL
+821026,1993,821026_1993.txt,NULL,1987,NULL,December 31,Ohio,"Grain merchandising. NOT_FOUND. (The main product or service is grain merchandising, but the company",Anderson
+716006,1993,716006_1993.txt,Delaware,1993,35000,NULL,NULL,Freight transportation services,NULL
+95395,1993,95395_1993.txt,NULL,1985,12500,NULL,NULL,Aerospace products. NOT_FOUND. Aerospace products. Aerospace products. Aerospace products. Aerospace,NULL
+793421,1993,793421_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,Latiolais
+2024,1993,2024_1993.txt,California,1928,3405,December 31,Illinois,Hardware wholesaling and manufacturing. Read More,NULL
+33798,1993,33798_1993.txt,California,1919,NULL,NULL,Massachusetts,Retail building materials,NULL
+90185,1993,90185_1993.txt,Delaware,1975,5110,December 31,Missouri,Chemical products and services,NULL
+36377,1993,36377_1993.txt,Delaware,1956,3116,December 31,Hawaii,Banking services. Read this SEC 10-K filing excerpt and answer the question,NULL
+721083,1993,721083_1993.txt,Delaware,1987,NULL,NULL,NULL,Downhole drilling tool manufacturer,NULL
+81100,1993,81100_1993.txt,Washington,1904,2609,December 31,NULL,Electric utility services,NULL
+100783,1993,100783_1993.txt,Virginia,1956,19000,December 31,New Jersey,"Paper and paperboard products. NOT_FOUND. (Note: The company has multiple business segments, but pap",NULL
+766829,1993,766829_1993.txt,California,1985,324,December 31,California,Water service provision. | ||,WEINHARDT
+88204,1993,88204_1993.txt,NULL,1993,NULL,December 31,NULL,Protective packaging materials,NULL
+16906,1993,16906_1993.txt,Massachusetts,1902,124,December 31,NULL,Wholesale electric generation. CANAL ELECTRIC COMPANY,NULL
+766701,1993,766701_1993.txt,Maryland,1985,NULL,December 31,Texas,Mortgage loan conduit,NULL
+30547,1993,30547_1993.txt,New York,1993,2036,NULL,Maryland,Business forms manufacturing,NULL
+73124,1993,73124_1993.txt,Delaware,1971,NULL,December 31,Illinois,Financial services and trust,NULL
+46080,1993,46080_1993.txt,Rhode Island,1926,12500,NULL,Rhode Island,Toy manufacturing and sales,NULL
+740868,1993,740868_1993.txt,Indiana,1985,12500,NULL,Indiana,Window systems manufacturing,NULL
+708823,1993,708823_1993.txt,Pennsylvania,1979,500,NULL,Pennsylvania,Biopharmaceutical product development,Holveck
+277577,1993,277577_1993.txt,NULL,1989,NULL,April,Texas,Real estate investments,FRIEDMAN
+49071,1993,49071_1993.txt,Delaware,1961,4500,December 31,Kentucky,Managed health care services,NULL
+77943,1993,77943_1993.txt,NULL,1993,2012,October 31,Texas,Specialty chemical production,Nasser
+67686,1993,67686_1993.txt,Delaware,1933,30000,December 31,Missouri,Agricultural products manufacturing,NULL
+30573,1993,30573_1993.txt,Pennsylvania,1912,NULL,December 31,Pennsylvania,Electric energy production,NULL
+52466,1993,52466_1993.txt,Massachusetts,1948,12500,December 31,Massachusetts,Water purification services,NULL
+799319,1993,799319_1993.txt,California,1983,800,December 31,New York,Telecommunications services,"But,"
+60026,1993,60026_1993.txt,California,1932,1230000,December 26,Texas,Aerospace products and systems,NULL
+72909,1993,72909_1993.txt,Minnesota,1901,893,December 31,NULL,"Electric and gas utility services. NOT_FOUND. (Note: The company is a utility company, but it is not",NULL
+806086,1993,806086_1993.txt,NULL,1983,1200,NULL,Washington,Diagnostic medical ultrasound systems,NULL
+801124,1993,801124_1993.txt,Massachusetts,1986,NULL,NULL,NULL,"Real estate investments. NOT_FOUND. (The company is a real estate investment trust, or REIT, and its",NULL
+105839,1993,105839_1993.txt,Maryland,1923,6025,NULL,NULL,Electric utility services,Bennett
+25445,1993,25445_1993.txt,New York,1855,8700,December 31,NULL,Engineered industrial products,NULL
+13239,1993,13239_1993.txt,NULL,1899,NULL,NULL,NULL,NOT_FOUND,NULL
+311094,1993,311094_1993.txt,Delaware,1995,12500,NULL,California,Telecommunications services.  Source: Item 1 Business,NULL
+47129,1993,47129_1993.txt,Delaware,1967,41,December 31,New Jersey,Automobile rental services,NULL
+205402,1993,205402_1993.txt,New York,1925,5100,December 31,NULL,Wholesale electrical distribution,NULL
+36326,1993,36326_1993.txt,Georgia,1971,14000,December 31,Georgia,Data processing services,NULL
+859257,1993,859257_1993.txt,NULL,1990,NULL,NULL,NULL,"Retail consumer receivables.  (Note: This is the main business activity of the company, which is to ",NULL
+79879,1993,79879_1993.txt,Pennsylvania,1883,31400,December 31,NULL,Coatings and chemicals manufacturer,NULL
+42293,1993,42293_1993.txt,California,1959,NULL,December 31,California,Savings and loan business,NULL
+3153,1993,3153_1993.txt,Alabama,1945,12500,NULL,NULL,Electric power generation. I-4,HARRIS
+9548,1993,9548_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+311871,1993,311871_1993.txt,California,1940,NULL,December 31,Georgia,Wood products and pulp,NULL
+354396,1993,354396_1993.txt,NULL,NULL,12500,NULL,Maryland,Insurance services. NOT_FOUND. Insurance. NOT_FOUND. Insurance services. Insurance. Insurance servic,NULL
+96943,1993,96943_1993.txt,Pennsylvania,1943,8000,December 26,NULL,Precision mechanical controls,NULL
+728586,1993,728586_1993.txt,Delaware,1965,500,March 30,New York,Investment banking services,NULL
+93542,1993,93542_1993.txt,New York,NULL,12500,NULL,Massachusetts,Giftware and collectibles. Read this SEC 10-K filing excerpt and answer the question,NULL
+96638,1993,96638_1993.txt,Delaware,1974,NULL,December 31,Delaware,Credit card services,NULL
+99193,1993,99193_1993.txt,California,1920,4031,December 31,California,Consumer lending services,NULL
+52477,1993,52477_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+277821,1993,277821_1993.txt,California,1954,2000,December 31,California,Education and training services,NULL
+72903,1993,72903_1993.txt,Minnesota,1909,3,NULL,Minnesota,Electric and gas utility services,NULL
+86772,1993,86772_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30554,1993,30554_1993.txt,Delaware,1915,1140000,NULL,Delaware,Chemicals and petroleum products,NULL
+276999,1993,276999_1993.txt,NULL,NULL,1962,December 31,NULL,"Formulation, manufacture coatings. - 6 - - 1. Business - - -----------------",NULL
+73902,1993,73902_1993.txt,New York,1991,NULL,NULL,Illinois,Diversified services company,NULL
+774203,1993,774203_1993.txt,North Carolina,1956,15531,December 31,North Carolina,Banking services. NOT_FOUND. (Note: The company is a bank holding company with various subsidiaries ,NULL
+7323,1993,7323_1993.txt,Arkansas,1949,16525,December 31,NULL,Electric utility services,NULL
+55785,1993,55785_1993.txt,Delaware,1928,42131,December 31,Georgia,Manufacturing and marketing products,NULL
+24454,1993,24454_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+313616,1993,313616_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+79732,1993,79732_1993.txt,Delaware,1896,4500,NULL,NULL,Electric energy sales,NULL
+732714,1993,732714_1993.txt,Delaware,1983,1250000,NULL,New York,Telecommunications services,NULL
+352947,1993,352947_1993.txt,New Jersey,1981,5750,December 31,New Jersey,Specialty chemical products,NULL
+740582,1993,740582_1993.txt,Maryland,1984,74,December 31,NULL,"Real estate investments. NOT_FOUND. (Note: The company is a real estate limited partnership, and its",NULL
+74928,1993,74928_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+72971,1993,72971_1993.txt,Delaware,1929,35000,December 31,Iowa,Banking and financial services,NULL
+103392,1993,103392_1993.txt,Delaware,1970,3712318237123182371231823712318,December 31,New York,Packaging manufacturing,NULL
+50548,1993,50548_1993.txt,Delaware,1907,NULL,NULL,Illinois,Steel production and sales,NULL
+101382,1993,101382_1993.txt,Missouri,1967,3718,December 31,Kansas,Commercial banking services. NOT_FOUND. (The company is a bank holding company with multiple subsidi,NULL
+840216,1993,840216_1993.txt,Delaware,1989,92,March 31,California,Real estate development,NULL
+107832,1993,107832_1993.txt,Illinois,1917,2673,December 31,NULL,Electric power generation,NULL
+714655,1993,714655_1993.txt,Massachusetts,1978,NULL,NULL,Massachusetts,Biopharmaceutical research and development,NULL
+36995,1993,36995_1993.txt,North Carolina,1967,NULL,December 31,North Carolina,Banking services,NULL
+740694,1993,740694_1993.txt,NULL,1983,1671,NULL,Florida,Custom-engineered products,NULL
+35527,1993,35527_1993.txt,Ohio,1974,118,December 31,Ohio,Banking services. ____________________ (R) Registered Trademark with U.S. Pat. & T.M. Office (SM) Se,NULL
+814677,1993,814677_1993.txt,California,1986,NULL,December 31,California,Equipment leasing services,NULL
+100923,1993,100923_1993.txt,Delaware,1891,3570,December 31,NULL,Railcar leasing services,NULL
+66740,1993,66740_1993.txt,Delaware,1929,86168,NULL,Minnesota,Manufacturing and marketing products. NOT_FOUND. (Note: The company's main business is manufacturing,NULL
+25885,1993,25885_1993.txt,Maryland,1920,3031,December 31,Texas,Petroleum products refining,"CEO,"
+92236,1993,92236_1993.txt,Delaware,1973,2230,December 31,NULL,Oil and gas exploration. I-1. I-2. I-3. I-4. I-5. I-6. I,NULL
+200245,1993,200245_1993.txt,Delaware,1960,8640,December 31,New York,Financial services,NULL
+310433,1993,310433_1993.txt,Pennsylvania,1979,1282,December 31,NULL,Telecommunications services. - - -6- - - -7- - - -8- - - -9- - - -10- -,NULL
+860004,1993,860004_1993.txt,NULL,1990,NULL,NULL,NULL,Retail consumer receivables.  (Note: This answer is based on the information provided in the excerpt,NULL
+754737,1993,754737_1993.txt,South Carolina,1984,478848494788,December 31,South Carolina,Regulated utilities services,NULL
+74783,1993,74783_1993.txt,Arizona,1968,NULL,December 31,NULL,Specialty property insurance,NULL
+1800,1993,1800_1993.txt,Illinois,1900,49659,December 31,Illinois,Pharmaceutical and nutritional products,NULL
+105418,1993,105418_1993.txt,Pennsylvania,1924,15000,December 25,NULL,Retail sale of food,NULL
+711513,1993,711513_1993.txt,Delaware,1968,1100,December 31,NULL,Commercial aircraft financing,NULL
+48305,1993,48305_1993.txt,Delaware,1927,52200,December 31,Minnesota,Automation and control systems,NULL
+711604,1993,711604_1993.txt,Illinois,1982,NULL,NULL,NULL,Real estate investments,NULL
+9659,1993,9659_1993.txt,Virginia,1962,5753,December 31,Virginia,Banking services,NULL
+9534,1993,9534_1993.txt,NULL,1957,2334,December 31,Iowa,Tire retreading services,NULL
+59198,1993,59198_1993.txt,NULL,1993,15012,December 31,Ohio,Engineered components manufacturing,NULL
+351145,1993,351145_1993.txt,Delaware,1969,3799,December 31,Alabama,Interactive computer graphics systems,NULL
+51296,1993,51296_1993.txt,NULL,1934,NULL,October 31,Illinois,Medium and heavy truck manufacturing,NULL
+15840,1993,15840_1993.txt,Delaware,1902,3064,December 31,Kansas,Building systems manufacturing,NULL
+71180,1993,71180_1993.txt,Nevada,1929,NULL,December 31,Arizona,Electric utility services,NULL
+34501,1993,34501_1993.txt,Texas,1947,5300,November 5,NULL,Apparel manufacturing,NULL
+7431,1993,7431_1993.txt,Pennsylvania,1891,21000,December 31,NULL,Interior furnishings manufacturer. - 8 - (Note: This answer is based on the first sentence of the It,Adams
+310158,1993,310158_1993.txt,New Jersey,1970,21600,December 31,New Jersey,Pharmaceutical products,NULL
+7649,1993,7649_1993.txt,New Jersey,1899,8500,December 31,NULL,Nonferrous metals production. A6,NULL
+25600,1993,25600_1993.txt,Indiana,1974,7300,December 31,NULL,Consumer finance operations,NULL
+34285,1993,34285_1993.txt,Texas,1953,12500,December 31,Texas,Conditioning and testing products,NULL
+4310,1993,4310_1993.txt,California,1968,1,December 31,California,Pharmaceutical product development,NULL
+351979,1993,351979_1993.txt,NULL,NULL,NULL,NULL,Delaware,NULL,NULL
+31986,1993,31986_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+722079,1993,722079_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+49588,1993,49588_1993.txt,NULL,1985,NULL,December 31,NULL,Insurance services,NULL
+732712,1993,732712_1993.txt,Delaware,1983,1250000,December 31,NULL,Telecommunications services,NULL
+722573,1993,722573_1993.txt,California,1980,293000,December 31,NULL,Managed health care services,Courtright
+64803,1993,64803_1993.txt,New York,1993,110000,December 31,NULL,Retailing and manufacturing,NULL
+817473,1993,817473_1993.txt,Delaware,1986,22,December 31,NULL,Lending and investing services,NULL
+52485,1993,52485_1993.txt,NULL,NULL,NULL,NULL,Iowa,NULL,Liu
+310569,1993,310569_1993.txt,Delaware,1979,1250000,NULL,Missouri,Beer production and sales,NULL
+859119,1993,859119_1993.txt,Delaware,1989,3306,December 31,NULL,Railroad transportation services,NULL
+78066,1993,78066_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+277509,1993,277509_1993.txt,Delaware,1969,NULL,December 31,NULL,Public safety equipment manufacturer,NULL
+64908,1993,64908_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+893958,1993,893958_1993.txt,Delaware,1992,NULL,NULL,NULL,Asset-backed financing,NULL
+868482,1993,868482_1993.txt,NULL,1990,NULL,NULL,NULL,"Retail consumer receivables.  (Note: This is the main business activity of the company, which is to ",NULL
+765813,1993,765813_1993.txt,Illinois,1984,NULL,NULL,NULL,"Real estate investments. NOT_FOUND. (Note: The company is not a service provider, but rather an inve",NULL
+351825,1993,351825_1993.txt,Georgia,1980,12500,December 31,NULL,Banking services,NULL
+64782,1993,64782_1993.txt,Pennsylvania,1971,50000,December 31,Pennsylvania,Banking and financial services,NULL
+75527,1993,75527_1993.txt,California,1907,17,NULL,NULL,Natural gas distribution,NULL
+821480,1993,821480_1993.txt,NULL,1994,NULL,NULL,NULL,Cable television services,Officer
+793548,1993,793548_1993.txt,New Jersey,1956,5863,December 31,New Jersey,Commercial banking services,NULL
+63073,1993,63073_1993.txt,Massachusetts,1926,5000,December 31,NULL,Electric utility services,Vice
+36672,1993,36672_1993.txt,Massachusetts,1970,18600,December 31,Massachusetts,Financial services,NULL
+879209,1993,879209_1993.txt,NULL,1991,NULL,NULL,NULL,"Retail consumer receivables.  (Note: This is the main business activity of the company, which is to ",NULL
+705752,1993,705752_1993.txt,California,1982,NULL,NULL,NULL,Real estate investment,NULL
+4515,1993,4515_1993.txt,Delaware,1934,95800,December 31,Texas,Airline transportation services,NULL
+18230,1993,18230_1993.txt,Delaware,1994,51250,December 31,Illinois,Machinery and engine manufacturing,NULL
+812427,1993,812427_1993.txt,New Jersey,1918,28600,NULL,NULL,Chemicals and pharmaceuticals,Drew
+68813,1993,68813_1993.txt,South Carolina,1888,417000,December 31,Kansas,Media and broadcasting services,NULL
+352510,1993,352510_1993.txt,Delaware,1980,35,December 31,New York,Commercial banking services,NULL
+701811,1993,701811_1993.txt,Oregon,1981,2100,December 31,Oregon,Electronic design automation,NULL
+4969,1993,4969_1993.txt,Delaware,1962,60,December 31,NULL,Credit card receivables purchases. NOT_FOUND. (Credit card receivables purchases is the main busines,NULL
+91767,1993,91767_1993.txt,South Carolina,1899,16472,December 31,South Carolina,Packaging products manufacturer,Coker
+27984,1993,27984_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+84792,1993,84792_1993.txt,NULL,NULL,12500,NULL,NULL,Chemical manufacturing,NULL
+7974,1993,7974_1993.txt,Delaware,1967,12400,December 31,NULL,Consumer finance services,NULL
+10427,1993,10427_1993.txt,New York,1908,15900,December 25,New York,Personal health products,The
+78890,1993,78890_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+72945,1993,72945_1993.txt,Delaware,1985,50000,NULL,NULL,"Aerospace products and services.  (Note: The company designs, develops and manufactures aircraft, ai",NULL
+31277,1993,31277_1993.txt,Ohio,1916,38000,December 31,Ohio,Vehicle powertrain components,NULL
+792863,1993,792863_1993.txt,Delaware,1972,675,December 31,New York,Radio broadcasting services,NULL
+861388,1993,861388_1993.txt,Kentucky,1989,5000,December 31,Kentucky,Electric and gas utility services,NULL
+912025,1993,912025_1993.txt,Delaware,1993,NULL,NULL,NULL,Real estate investment,NULL
+39677,1993,39677_1993.txt,Delaware,1970,950,December 31,Florida,Real estate development. NOT_FOUND. (Note: The company has two main business activities: real estate,NULL
+312667,1993,312667_1993.txt,California,1959,NULL,December 31,NULL,Filmed entertainment production,NULL
+29917,1993,29917_1993.txt,Michigan,1943,8600,NULL,Michigan,Silicone products manufacturing,NULL
+84613,1993,84613_1993.txt,Delaware,1899,NULL,December 31,New Jersey,Electricity transmission and distribution,Blanchet
+42872,1993,42872_1993.txt,New York,1900,34000,December 31,NULL,Specialty chemical business,NULL
+2648,1993,2648_1993.txt,Connecticut,1967,5,December 31,Connecticut,Insurance and financial services,NULL
+36029,1993,36029_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+789538,1993,789538_1993.txt,Delaware,1986,NULL,December 31,NULL,Venture capital investing. NOT_FOUND. ( Venture capital investing is the main product/service/busine,Albert
+225300,1993,225300_1993.txt,Iowa,1977,290,December 31,Iowa,Insurance and annuity products,NULL
+69952,1993,69952_1993.txt,Pennsylvania,1956,23700,December 31,Pennsylvania,Banking services,NULL
+41091,1993,41091_1993.txt,Alabama,1945,12500,NULL,NULL,Electric power generation. I-4,HARRIS
+351936,1993,351936_1993.txt,Delaware,1980,NULL,NULL,Connecticut,Financing equipment sales,NULL
+77098,1993,77098_1993.txt,Pennsylvania,1846,NULL,December 31,Alabama,Insurance services,NULL
+51143,1993,51143_1993.txt,NULL,1993,125000,NULL,NULL,Information technology services,NULL
+17206,1993,17206_1993.txt,Delaware,1969,9,December 31,Kentucky,Insurance and financial services,NULL
+13372,1993,13372_1993.txt,Massachusetts,1886,4404,NULL,Massachusetts,Electric power distribution,NULL
+857571,1993,857571_1993.txt,Indiana,1906,20597,December 31,Ohio,Electric power distribution,NULL
+30099,1993,30099_1993.txt,Delaware,1956,15600,October 31,Texas,Oil and gas equipment,NULL
+745448,1993,745448_1993.txt,Delaware,1984,12200,December 31,Michigan,Diversified manufacturing services,NULL
+315641,1993,315641_1993.txt,Delaware,1979,2200,NULL,NULL,Metal fabrication products,NULL
+41499,1993,41499_1993.txt,Delaware,1917,33400,NULL,Massachusetts,Consumer goods manufacturing,NULL
+855433,1993,855433_1993.txt,Delaware,1977,979,December 31,NULL,Television broadcasting,NULL
+811664,1993,811664_1993.txt,Delaware,1987,675,NULL,Delaware,Air transportation services,NULL
+18808,1993,18808_1993.txt,Vermont,1929,NULL,NULL,NULL,Electricity distribution and sales,Webb
+95304,1993,95304_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+65622,1993,65622_1993.txt,Michigan,1984,12500,December 31,NULL,Telecommunications services,NULL
+743368,1993,743368_1993.txt,Delaware,1964,200,December 31,NULL,Newsprint manufacturing,NULL
+25506,1993,25506_1993.txt,Delaware,1972,4960,December 31,NULL,High-performance supercomputing systems,NULL
+109380,1993,109380_1993.txt,Utah,1955,NULL,December 31,Utah,Commercial banking services,NULL
+872553,1993,872553_1993.txt,NULL,NULL,NULL,NULL,NULL,Auto receivables financing. NOT_FOUND. (Note: The company is actually involved in the business of fi,NULL
+78128,1993,78128_1993.txt,Pennsylvania,1968,523,December 31,Pennsylvania,Water utility services,Boyer
+69598,1993,69598_1993.txt,Delaware,1928,6800,NULL,Illinois,Service Chemicals,NULL
+311100,1993,311100_1993.txt,NULL,1993,12500,NULL,NULL,"Banking services. NOT_FOUND. (The answer is ""Banking services"" because the company is a bank, but th",NULL
+805019,1993,805019_1993.txt,Delaware,1981,NULL,December 31,NULL,Financing services. Read this SEC 10-K filing excerpt and answer the question,NULL
+894651,1993,894651_1993.txt,New Jersey,1959,8300,December 31,NULL,Annuity insurance products,NULL
+101063,1993,101063_1993.txt,NULL,1993,NULL,NULL,Ohio,Fresh fruit marketing,Lindner
+354964,1993,354964_1993.txt,Illinois,1981,16900,December 31,Illinois,Consumer financial services,NULL
+355429,1993,355429_1993.txt,Alabama,1907,12847,December 31,Alabama,Insurance and financial services,NULL
+716783,1993,716783_1993.txt,Maryland,1977,420,December 31,NULL,Cement and construction materials,NULL
+63276,1993,63276_1993.txt,California,1948,NULL,December 31,California,Toy manufacturing and distribution,NULL
+789388,1993,789388_1993.txt,Delaware,1982,12500,December 31,NULL,Computer services company,NULL
+63541,1993,63541_1993.txt,Delaware,1925,20997,December 31,Iowa,Home appliance manufacturing. Read this SEC 10-K filing excerpt and answer the question,NULL
+770461,1993,770461_1993.txt,Florida,1981,1,December 31,Florida,"Horse racing. NOT_FOUND. (Note: The company is inactive, but it was previously engaged in horse raci",Shea
+811532,1993,811532_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+68330,1993,68330_1993.txt,Massachusetts,1971,10,November 30,Massachusetts,Real estate investments,NULL
+842635,1993,842635_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,Bow
+764542,1993,764542_1993.txt,California,1993,1100,NULL,NULL,Lumber production and sales. NOT_FOUND. (Note: The company is primarily engaged in the forest produc,NULL
+79636,1993,79636_1993.txt,Oregon,1930,2618,December 31,Oregon,Electric utility services,Cross
+101778,1993,101778_1993.txt,Delaware,1901,62551,December 31,NULL,Oil and gas exploration,NULL
+798905,1993,798905_1993.txt,California,1984,NULL,December 31,NULL,Equipment leasing. financing. Page 6 of 36. NOT_FOUND. Page 7 of 36. NOT_FOUND. Page 8 of,CONSTANTIN
+100893,1993,100893_1993.txt,Tennessee,1971,NULL,December 31,Tennessee,Commercial banking services. Read this SEC 10-K filing excerpt and answer the question,NULL
+74931,1993,74931_1993.txt,Delaware,1960,1400,December 31,Connecticut,Property and casualty insurance,NULL
+37634,1993,37634_1993.txt,Florida,1925,12500,NULL,Florida,Electric power distribution,Broadhead
+26058,1993,26058_1993.txt,Indiana,1929,NULL,December 31,Indiana,Electronic component manufacturing,NULL
+48681,1993,48681_1993.txt,NULL,NULL,12500,December 31,Illinois,Consumer financial services,NULL
+320335,1993,320335_1993.txt,Delaware,1979,3100,December 31,Alabama,Insurance and financial services,NULL
+81362,1993,81362_1993.txt,NULL,1993,1006,December 31,Pennsylvania,Formulated chemical specialty products,NULL
+71508,1993,71508_1993.txt,Arkansas,1949,16525,December 31,NULL,Electric utility services,NULL
+40867,1993,40867_1993.txt,Wisconsin,1987,17382,December 31,NULL,Telecommunications services,NULL
+710979,1993,710979_1993.txt,Delaware,1982,NULL,NULL,Florida,Home video retailing,NULL
+74260,1993,74260_1993.txt,Illinois,1920,NULL,December 31,Illinois,Insurance services,NULL
+71428,1993,71428_1993.txt,New Jersey,1984,12500,December 31,NULL,Telecommunications services,NULL
+78100,1993,78100_1993.txt,Pennsylvania,1929,12500,NULL,Pennsylvania,Electric and gas service,NULL
+354707,1993,354707_1993.txt,Hawaii,1891,4500,December 31,Hawaii,Electric utility services,NULL
+751190,1993,751190_1993.txt,California,1968,2250,NULL,California,Computer-integrated manufacturing,NULL
+313058,1993,313058_1993.txt,Louisiana,1930,2500,NULL,NULL,Cement production and sales. Read this SEC 10-K filing excerpt and answer the question,NULL
+314459,1993,314459_1993.txt,Illinois,1979,NULL,December 31,NULL,Real estate investments,NULL
+796370,1993,796370_1993.txt,NULL,1980,NULL,December 31,Massachusetts,Institutional investment management. - 6 - - 7 - - 8 - - 9 - - 10 - - 11 - -,NULL
+829732,1993,829732_1993.txt,Delaware,1825,NULL,December 31,Massachusetts,"Banking services. NOT_FOUND. (The company is a bank holding company, and its main business is bankin",NULL
+807711,1993,807711_1993.txt,Delaware,1986,1800,December 31,Connecticut,Heavy-duty portable electric tools,Havers
+37931,1993,37931_1993.txt,New York,1993,NULL,December 31,NULL,"Advertising agency services. NOT_FOUND. (Note: The company is an advertising agency, but the main pr",NULL
+311359,1993,311359_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+18792,1993,18792_1993.txt,Delaware,1944,5900,December 31,NULL,Telecommunications services,NULL
+862923,1993,862923_1993.txt,NULL,1994,12500,NULL,NULL,"NOT_FOUND.  (The excerpt does not mention the company's main product, service, or business activity.",NULL
+736157,1993,736157_1993.txt,Colorado,1922,NULL,December 31,NULL,Media and entertainment company. I-6. I-7. I-8. I-9. I-10. I-11. I,NULL
+104918,1993,104918_1993.txt,Washington,1889,1696,December 31,Washington,Electric and natural gas utility,NULL
+350847,1993,350847_1993.txt,Delaware,1896,1494,December 31,Washington,Banking services,Grosz
+3673,1993,3673_1993.txt,Maryland,1923,6025,NULL,NULL,Electric utility services,Bennett
+275177,1993,275177_1993.txt,North Carolina,1900,4308,December 31,NULL,Telecommunications services,NULL
+36340,1993,36340_1993.txt,Delaware,1976,253,December 31,Illinois,"Commercial banking services. NOT_FOUND. (The company is a bank holding company, and its subsidiaries",NULL
+19722,1993,19722_1993.txt,Maryland,1984,25000,December 31,NULL,Telecommunications services,NULL
+19150,1993,19150_1993.txt,New York,1937,42000,December 31,NULL,Paper products manufacturing,NULL
+55642,1993,55642_1993.txt,Texas,1947,4200,December 31,Texas,Valve manufacturing,NULL
+354647,1993,354647_1993.txt,California,1981,2000,December 31,California,Banking services,NULL
+791269,1993,791269_1993.txt,Delaware,1925,NULL,March 31,Michigan,Automotive manufacturing,NULL
+54045,1993,54045_1993.txt,California,1902,2025,December 31,Alabama,Electrical hardware manufacturing,NULL
+824430,1993,824430_1993.txt,Colorado,1986,NULL,NULL,NULL,"Seeking merger candidates. NOT_FOUND. (Note: The company has not yet commenced operations, so it doe",Lilly
+94610,1993,94610_1993.txt,NULL,1993,29000,December 31,Illinois,Paper products manufacturing. NOT_FOUND. (Note: The company's main business is paper products manufa,NULL
+872552,1993,872552_1993.txt,NULL,NULL,NULL,NULL,NULL,Auto receivables financing. NOT_FOUND. (Note: The company is actually involved in the business of fi,NULL
+91142,1993,91142_1993.txt,Delaware,1916,10800,December 31,NULL,Manufacturing and sales of products,NULL
+84557,1993,84557_1993.txt,New York,1904,2536,December 31,New York,Electric and gas service. - 9 - - 10 - - 11 - - 12 - - 13 - - 14 - -,NULL
+21271,1993,21271_1993.txt,Delaware,1955,850000,December 31,Texas,Petroleum refining and marketing,NULL
+833053,1993,833053_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12400,1993,12400_1993.txt,Delaware,1941,5800,NULL,South Dakota,Electric power sales,NULL
+806027,1993,806027_1993.txt,Illinois,1962,31000,December 31,Illinois,Management and cleaning services. NOT_FOUND. (Management and cleaning services is the main product/s,ServiceMaster
+71344,1993,71344_1993.txt,New York,1883,NULL,December 31,NULL,Telecommunications services,NULL
+51303,1993,51303_1993.txt,Delaware,1949,NULL,NULL,NULL,Wholesale and retail financing,NULL
+745276,1993,745276_1993.txt,Ohio,1983,277,December 31,Ohio,Commercial and retail banking. Read this SEC 10-K filing excerpt and answer the question,NULL
+792397,1993,792397_1993.txt,California,1985,1500,December 31,NULL,Information storage solutions,NULL
+789895,1993,789895_1993.txt,California,1984,NULL,NULL,NULL,"Aircraft leasing. NOT_FOUND. (The company is a partnership that leases aircraft, but it also owns an",NULL
+858470,1993,858470_1993.txt,Delaware,1989,NULL,December 31,NULL,Oil and gas production. Read this SEC 10-K filing excerpt and answer the question,NULL
+789575,1993,789575_1993.txt,Delaware,1986,1657,December 31,Mississippi,Commercial banking services,NULL
+703559,1993,703559_1993.txt,New Jersey,1982,49,March,New Jersey,Banking services,NULL
+96223,1993,96223_1993.txt,New York,1968,426,December 31,Missouri,Insurance and financial services,NULL
+352915,1993,352915_1993.txt,NULL,NULL,NULL,NULL,Pennsylvania,NULL,NULL
+26172,1993,26172_1993.txt,NULL,1934,23600,December 31,NULL,Diesel engine manufacturing,Schacht
+71304,1993,71304_1993.txt,Massachusetts,1926,4500,December 31,Massachusetts,Electric and gas utilities,Poist
+794323,1993,794323_1993.txt,Delaware,1941,25000,NULL,NULL,Construction and mining services,NULL
+18651,1993,18651_1993.txt,Illinois,1985,12500,December 31,Illinois,Electric and gas utility,NULL
+52428,1993,52428_1993.txt,Delaware,1967,NULL,December 31,NULL,Face-amount certificate issuer,NULL
+856716,1993,856716_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+40779,1993,40779_1993.txt,Pennsylvania,1946,NULL,December 31,NULL,Electricity generation and distribution,NULL
+43960,1993,43960_1993.txt,California,1965,12500,December 31,Arizona,Collateralized financing services,NULL
+278041,1993,278041_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22606,1993,22606_1993.txt,Illinois,1907,33000,December 31,Illinois,Electricity sales,NULL
+96831,1993,96831_1993.txt,NULL,NULL,1200,NULL,Michigan,Compressor manufacturing,NULL
+96977,1993,96977_1993.txt,NULL,1955,NULL,December 31,Washington,Telecommunications services,NULL
+54507,1993,54507_1993.txt,Kansas,1989,5192,December 31,Kansas,Electric and natural gas utility,NULL
+709145,1993,709145_1993.txt,California,1983,NULL,December 31,NULL,"Equipment leasing. NOT_FOUND. (Note: The company is in the process of winding up its business, so it",Michaels
+778439,1993,778439_1993.txt,Delaware,1985,2600,December 31,NULL,Timberlands business. - 6 - - 7 - - 8 - - 9 - - 10 - - 11 - -,POLL
+51644,1993,51644_1993.txt,Delaware,1930,17600,December 31,Kentucky,Advertising agency services. - 8 - PAGE,NULL
+19719,1993,19719_1993.txt,New York,1984,7500,December 31,NULL,Telecommunications services,NULL
+11860,1993,11860_1993.txt,Pennsylvania,1993,12500,NULL,Pennsylvania,Steel production and sales,NULL
+35214,1993,35214_1993.txt,Ohio,1919,6627,December 31,Ohio,Specialty materials production,NULL
+716133,1993,716133_1993.txt,Ohio,1984,12500,December 31,Kentucky,Telecommunications services,NULL
+316901,1993,316901_1993.txt,Massachusetts,1967,1400,December 31,Massachusetts,Banking and financial services,NULL
+25757,1993,25757_1993.txt,Massachusetts,1900,2352,NULL,NULL,Specialty chemicals manufacturing,NULL
+10497,1993,10497_1993.txt,Massachusetts,1928,5571,December 31,Massachusetts,Banking services,NULL
+66025,1993,66025_1993.txt,NULL,1993,980,December 31,NULL,NULL,NULL
+88034,1993,88034_1993.txt,California,1993,1700,December 31,NULL,"Broadcasting and cable television. NOT_FOUND. (Note: The company is diversified, but broadcasting an",NULL
+717829,1993,717829_1993.txt,NULL,1985,4600,December 31,Ohio,Greeting card manufacturing,Sottile
+91928,1993,91928_1993.txt,Delaware,1969,NULL,December 31,NULL,Natural gas distribution. - 7 - - 8 - - 9 - - 10 - - 11 - - 12 - -,NULL
+829218,1993,829218_1993.txt,Delaware,1983,1300,December 31,Texas,Thermoplastic and petrochemical products,NULL
+69970,1993,69970_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+75208,1993,75208_1993.txt,Delaware,NULL,NULL,December 31,NULL,Bulk cargo shipping,NULL
+823549,1993,823549_1993.txt,Delaware,1938,75000,December 31,NULL,Natural gas transportation,NULL
+276189,1993,276189_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+52491,1993,52491_1993.txt,Illinois,1940,1423,December 31,Illinois,Electric and gas distribution,NULL
+712534,1993,712534_1993.txt,Indiana,1893,371,December 31,Indiana,Commercial banking services,NULL
+55604,1993,55604_1993.txt,Delaware,1955,1900,December 31,Texas,Diversified steel manufacturing,NULL
+909783,1993,909783_1993.txt,NULL,1993,NULL,December 31,New York,Diversified manufacturing services,NULL
+72741,1993,72741_1993.txt,Connecticut,1992,30,NULL,Connecticut,Electric utility services,NULL
+30163,1993,30163_1993.txt,NULL,1940,12500,December 31,New York,Mutual fund management,Stein
+19724,1993,19724_1993.txt,Virginia,1984,NULL,December 31,NULL,Telecommunications services,NULL
+726601,1993,726601_1993.txt,NULL,NULL,NULL,NULL,Florida,NULL,NULL
+810021,1993,810021_1993.txt,Delaware,1987,NULL,December 31,Texas,Natural gas operations,Chief
+773910,1993,773910_1993.txt,Delaware,1985,1020,December 31,NULL,Oil and gas exploration,NULL
+96966,1993,96966_1993.txt,Iowa,1968,NULL,December 31,NULL,Telecommunications services,NULL
+7286,1993,7286_1993.txt,Arizona,1920,7050,December 31,Arizona,Electricity distribution,Woods
+60751,1993,60751_1993.txt,Ohio,1928,4613,December 31,Ohio,Chemical additives manufacturing,NULL
+313749,1993,313749_1993.txt,Delaware,1934,12500,December 31,NULL,NOT_FOUND. (The company is a real estate investment trust (REIT) with various investments in real es,NULL
+94673,1993,94673_1993.txt,Delaware,1969,10100,December 31,Colorado,Information storage systems,NULL
+74145,1993,74145_1993.txt,Oklahoma,1902,361,December 31,Oklahoma,Electric power generation,NULL
+66960,1993,66960_1993.txt,NULL,1985,4700,December 31,NULL,Electric and natural gas utility. I-6. I-7. I-8. I-9. I-10. I-11,NULL
+39547,1993,39547_1993.txt,Alabama,1929,11200,December 31,NULL,Photofinishing services. Read this SEC 10-K filing excerpt and answer the question,NULL
+11199,1993,11199_1993.txt,Missouri,1885,7600,December 31,Minnesota,Flexible packaging products. - 5 - ```python,NULL
+18540,1993,18540_1993.txt,Delaware,1925,NULL,December 31,NULL,Electric power distribution,NULL
+63917,1993,63917_1993.txt,Maryland,1939,70016,December 31,NULL,Aerospace manufacturing,NULL
+82231,1993,82231_1993.txt,New York,1840,1195,December 31,New York,Materials handling systems,NULL
+94049,1993,94049_1993.txt,New Jersey,1932,1302,December 31,Illinois,Chemical manufacturing,NULL
+46195,1993,46195_1993.txt,Arizona,1971,4424,May 7,NULL,Financial services. Read this SEC 10-K filing excerpt and answer the question,NULL
+778201,1993,778201_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+98362,1993,98362_1993.txt,Ohio,1904,15985,December 31,Ohio,Anti-friction bearings,NULL
+88255,1993,88255_1993.txt,NULL,1992,14,NULL,NULL,Short-term financing services,NULL
+704469,1993,704469_1993.txt,Kentucky,1981,12500,December 31,Kentucky,"Banking services. NOT_FOUND. (The company is a bank holding company with multiple subsidiaries, so i",NULL
+5187,1993,5187_1993.txt,Delaware,1926,51499290285139929028514992902851399290285149929028,December 31,New Jersey,Health care products,NULL
+16422,1993,16422_1993.txt,California,1926,614,December 31,NULL,Water distribution services,NULL
+73918,1993,73918_1993.txt,Delaware,1931,1390,December 31,Ohio,Marine transportation services,NULL
+831259,1993,831259_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+852772,1993,852772_1993.txt,Alabama,1988,NULL,December 31,South Carolina,Restaurant operations,NULL
+100880,1993,100880_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22198,1993,22198_1993.txt,Indiana,1906,20597,December 31,Ohio,Electric power distribution,NULL
+44801,1993,44801_1993.txt,Delaware,1964,520,December 31,Oklahoma,Natural gas products services,NULL
+37076,1993,37076_1993.txt,Wisconsin,1929,7233,December 31,NULL,Banking services,NULL
+102379,1993,102379_1993.txt,Delaware,NULL,1100,October 31,NULL,Engineering and architectural services,NULL
+60860,1993,60860_1993.txt,Delaware,1992,4769,NULL,NULL,Steel manufacturing,NULL
+752302,1993,752302_1993.txt,Michigan,1982,NULL,December 31,NULL,Mortgage financing services,NULL
+731859,1993,731859_1993.txt,New York,1942,2750,December 31,New York,Investments and real estate,NULL
+860730,1993,860730_1993.txt,Delaware,1990,NULL,December 31,Kentucky,Hospital and healthcare services,NULL
+792014,1993,792014_1993.txt,Maryland,1986,NULL,December 31,California,Mortgage-backed investments. NOT_FOUND. (Note: The company's main business activity is not explicitl,NULL
+109261,1993,109261_1993.txt,Delaware,1971,1600,December 31,California,Insurance services,NULL
+701221,1993,701221_1993.txt,Delaware,1981,540,December 31,Pennsylvania,Insurance and financial services,NULL
+310764,1993,310764_1993.txt,NULL,NULL,NULL,NULL,Michigan,NULL,Brown
+790159,1993,790159_1993.txt,NULL,NULL,12500,NULL,New Hampshire,Environmental services and products,NULL
+73020,1993,73020_1993.txt,Oregon,1910,2500,December 31,Oregon,Natural gas distribution,NULL
+763907,1993,763907_1993.txt,Maryland,1985,223,December 31,Maryland,"Banking services. NOT_FOUND. (The company is a bank holding company with multiple subsidiaries, so i",Stanton
+40545,1993,40545_1993.txt,New York,1892,7,December 31,NULL,Industrial products and services,NULL
+106752,1993,106752_1993.txt,Arizona,1915,NULL,NULL,Connecticut,Environmental services,NULL
+22099,1993,22099_1993.txt,Delaware,1926,10114,NULL,NULL,Natural gas operations,JAMES
+68622,1993,68622_1993.txt,Colorado,1991,1250000,December 31,NULL,Telecommunications services,NULL
+21267,1993,21267_1993.txt,Delaware,1972,16000,December 31,NULL,Natural gas operations. Read this SEC 10-K filing excerpt and answer the question,NULL
+40865,1993,40865_1993.txt,Florida,1901,8210,December 31,NULL,Telecommunications services,President
+795581,1993,795581_1993.txt,Delaware,1985,615,December 31,Maine,Insurance and employee benefits,NULL
+836442,1993,836442_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+107833,1993,107833_1993.txt,Wisconsin,1883,4500,NULL,NULL,Electricity and natural gas. Read this excerpt and answer the question,NULL
+778437,1993,778437_1993.txt,Colorado,1985,6,December 31,NULL,"Industrial property leasing. NOT_FOUND. (Note: The company is a real estate investment trust, and it",Wolcott
+735553,1993,735553_1993.txt,Wisconsin,1984,12500,December 31,Wisconsin,Savings and loan services,NULL
+31617,1993,31617_1993.txt,New York,1925,1051,December 31,New York,Advanced electronic systems. - 4 - Read this SEC 10-K filing excerpt and answer the question,NULL
+27996,1993,27996_1993.txt,Minnesota,1920,17000,NULL,NULL,Check printing services. - 5 - Read this SEC 10-K filing excerpt and answer the question,NULL
+774459,1993,774459_1993.txt,Maryland,1923,6025,NULL,NULL,Electric utility services,Bennett
+732639,1993,732639_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,Munroe
+782975,1993,782975_1993.txt,NULL,1992,NULL,NULL,NULL,Cable television services,Officer
+73945,1993,73945_1993.txt,Ohio,1982,12500,December 31,NULL,Telecommunications services,NULL
+97349,1993,97349_1993.txt,Delaware,1926,32514,December 31,NULL,Oil and gas exploration,NULL
+872551,1993,872551_1993.txt,NULL,NULL,NULL,NULL,NULL,Auto receivables financing. NOT_FOUND. (Note: The company is actually involved in the business of fi,NULL
+106170,1993,106170_1993.txt,Connecticut,1992,30,NULL,Connecticut,Electric utility services,NULL
+37637,1993,37637_1993.txt,Florida,1899,12500,December 31,Florida,Electric power generation,"However,"
+868635,1993,868635_1993.txt,Delaware,1990,3103,December 31,NULL,Pre-engineered metal buildings,NULL
+18926,1993,18926_1993.txt,Louisiana,1968,2800,December 31,NULL,Telecommunications services,NULL
+865937,1993,865937_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+732713,1993,732713_1993.txt,Georgia,1983,123000,December 31,NULL,Telecommunications services,NULL
+743475,1993,743475_1993.txt,NULL,1902,2500,December 31,New York,General building construction,McNeill
+90498,1993,90498_1993.txt,Arkansas,1903,6420,December 31,Arkansas,Retail banking services,NULL
+50104,1993,50104_1993.txt,Alaska,1939,1400,December 31,NULL,Refining and marketing. Read this excerpt and answer the question,NULL
+64040,1993,64040_1993.txt,NULL,1925,15661,December 31,New York,Information products services,NULL
+27409,1993,27409_1993.txt,NULL,NULL,NULL,NULL,Ohio,NULL,NULL
+726513,1993,726513_1993.txt,California,1861,NULL,NULL,Illinois,Publishing and broadcasting,NULL
+869739,1993,869739_1993.txt,NULL,NULL,NULL,NULL,NULL,Auto receivables financing. NOT_FOUND. (Note: The company is actually involved in the business of fi,NULL
+92081,1993,92081_1993.txt,Delaware,1968,7000,December 31,NULL,Commercial banking services,NULL
+845091,1993,845091_1993.txt,NULL,NULL,NULL,NULL,NULL,"NOT_FOUND.  (The excerpt does not provide information about the company's main product, service, or ",NULL
+50957,1993,50957_1993.txt,Delaware,1926,16850,NULL,Missouri,Furniture and footwear manufacturing,NULL
+73088,1993,73088_1993.txt,Delaware,1923,473,December 31,North Dakota,Electric and gas utility,Lewis
+54381,1993,54381_1993.txt,Connecticut,1945,5363,December 31,Connecticut,NOT_FOUND (The company has multiple products and services across two industry segments: Diversified ,Kaman
+829444,1993,829444_1993.txt,NULL,NULL,12500,December 31,Louisiana,Shipbuilding and repair. NOT_FOUND. Ship construction. Shipbuilding. Ship construction and repair. S,NULL
+23426,1993,23426_1993.txt,Connecticut,1992,30,NULL,Connecticut,Electric utility services,NULL
+716039,1993,716039_1993.txt,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+823393,1993,823393_1993.txt,Delaware,1987,270,December 31,Connecticut,Banking services,NULL
+62142,1993,62142_1993.txt,Delaware,1958,NULL,December 31,NULL,Energy company services,NULL
+14407,1993,14407_1993.txt,Massachusetts,1928,NULL,NULL,NULL,Retail electric utility,Pardus
+97886,1993,97886_1993.txt,Kentucky,1928,3400,December 31,Kentucky,Lighting and compressors,NULL
+835669,1993,835669_1993.txt,Maryland,1988,NULL,December 31,Ohio,"Mortgage investment services. NOT_FOUND. (Note: The company's main business is mortgage investment, ",NULL
+216539,1993,216539_1993.txt,Delaware,1993,7300,NULL,Virginia,Newspaper publishing business,NULL

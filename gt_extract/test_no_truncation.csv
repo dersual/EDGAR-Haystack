@@ -1,0 +1,3 @@
+cik,year,filename,incorporation_state,incorporation_year,employee_count,fiscal_year_end,headquarters_state,company_product,ceo_lastname
+92116,1993,92116_1993.txt,California,1929,486,December 31,California,Water distribution and sale,NULL
+103730,1993,103730_1993.txt,Delaware,1962,14200,December 31,Pennsylvania,Electronic components manufacturing,NULL
