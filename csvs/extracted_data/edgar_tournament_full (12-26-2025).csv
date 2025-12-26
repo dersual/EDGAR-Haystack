@@ -1,0 +1,365 @@
+filename,cik,year,company_name_Regex,company_name_Hybrid,company_name_LLM,company_name_Match,HQ_city_Regex,HQ_city_Hybrid,HQ_city_LLM,HQ_city_Match,original_Inc_state_Regex,original_Inc_state_Hybrid,original_Inc_state_LLM,original_Inc_state_Match,original_Inc_year_Regex,original_Inc_year_Hybrid,original_Inc_year_LLM,original_Inc_year_Match,employee_count_Regex,employee_count_Hybrid,employee_count_LLM,employee_count_Match,HQ_state_Regex,HQ_state_Hybrid,HQ_state_LLM,HQ_state_Match,ceo_lastname_Regex,ceo_lastname_Hybrid,ceo_lastname_LLM,ceo_lastname_Match
+92116_1993.txt,92116,1993,"Item 1. Business
+General
+Southern California Water",Southern California Water Company,Southern California Water Company,1,NULL,NULL,NULL,NULL,1929 under,California,California,1,1929,1929,1929,1,NULL,486,486,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+103730_1993.txt,103730,1993,"Resistors, the most common component in electronic circuits, are used to adjust and regulate levels ","Vishay Intertechnology, Inc.","Vishay Intertechnology, Inc.",1,NULL,Malvern,Malvern,1,Delaware in,Delaware,Delaware,1,NULL,1962,1962,1,NULL,14200,14200,1,Pennsylvania,Pennsylvania,Pennsylvania,1,NULL,NULL,NULL,NULL
+100240_1993.txt,100240,1993,"State of Georgia in 1965. Through its subsidiaries at December 31, 1993","Turner Broadcasting System, Inc.","Turner Broadcasting System, Inc.",1,NULL,Atlanta,Atlanta,1,Georgia in,Georgia,Georgia,1,NULL,1965,1965,1,"5,317",5317,5317,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+58696_1993.txt,58696,1993,"It is primarily engaged in homebuilding, in the development and management of commercial and residen",Lennar Corporation,Lennar Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1,660","1,660",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+46207_1993.txt,46207,1993,The financial information about,HEI,HEI,1,NULL,NULL,NULL,NULL,1981 under,Hawaii,Hawaii,1,1981,1891,1981,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,is President,Chang,Lewis,0
+60041_1993.txt,60041,1993,Connecticut corporation in 1953 to manufacture and sell industrial adhesives and sealants. The,Loctite Corporation,Loctite Corporation,1,NULL,NULL,NULL,NULL,Delaware in,Connecticut,Connecticut,1,NULL,1953,1953,1,NULL,4000,4000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+55387_1993.txt,55387,1993,"Item 1. Business
+General
+Kentucky Utilities",Kentucky Utilities Company,Kentucky Utilities Company,1,NULL,NULL,NULL,NULL,State,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2260,2260,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+40878_1993.txt,40878,1993,"Item 1. Business
+GTE South Incorporated",GTE South Incorporated,GTE South Incorporated,1,NULL,NULL,NULL,NULL,Virginia on,Virginia,Virginia,1,NULL,1947,1947,1,NULL,4729,4729,1,NULL,NULL,NULL,NULL,NULL,Goode,Goode,1
+53540_1993.txt,53540,1993,ITEM 1. Business,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+800287_1993.txt,800287,1993,The,"Chemical Waste Management, Inc.","Chemical Waste Management, Inc.",1,NULL,NULL,NULL,NULL,Delaware as,Delaware,Delaware,1,NULL,NULL,1978,0,NULL,NULL,20,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+50178_1993.txt,50178,1993,"ITEM 1. BUSINESS
+General
+Indiana Bell Telephone","Indiana Bell Telephone Company, Incorporated","Indiana Bell Telephone Company, Incorporated",1,NULL,Chicago,Chicago,1,Indiana and,Indiana,Indiana,1,NULL,NULL,NULL,NULL,NULL,5077,5077,1,Illinois,Illinois,NULL,0,NULL,NULL,NULL,NULL
+725625_1993.txt,725625,1993,The,"Cornerstone Natural Gas, Inc.","Cornerstone Natural Gas, Inc.",1,NULL,Dallas,Dallas,1,Texas in,Texas,Texas,1,NULL,1977,1977,1,129,129,129,1,NULL,Texas,Texas,1,NULL,NULL,NULL,NULL
+66479_1993.txt,66479,1993,"Item 1. Business.
+The",Millipore Corporation,Millipore Corporation,1,NULL,NULL,NULL,NULL,Massachusetts on,Massachusetts,Massachusetts,1,NULL,1954,1954,1,NULL,NULL,3664,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+700674_1993.txt,700674,1993,United States. Through its global network of,Air Express International Corporation,Air Express International Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4271,4271,1,the United States,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+854094_1993.txt,854094,1993,"Phoenix, Arizona and Indianapolis, Indiana. The","Central Newspapers, Inc.","Central Newspapers, Inc.",1,NULL,NULL,NULL,NULL,1934,Indiana,Indiana,1,1934,1934,1934,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+846972_1993.txt,846972,1993,The,NULL,"Adience, Inc.",0,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1985,1985,1,NULL,NULL,832,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+59478_1993.txt,59478,1993,"Item 1. BUSINESS
+Eli Lilly and",Eli Lilly and Company,Eli Lilly and Company,1,NULL,Indianapolis,Indianapolis,1,1901 under,Indiana,Indiana,1,1901,1901,1901,1,NULL,32700,32700,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5550_1993.txt,5550,1993,"Item 1. Business. - ------- ---------
+Development of Business
+American Nuclear Corporation",American Nuclear Corporation,American Nuclear Corporation,1,NULL,NULL,NULL,NULL,1955 as,NULL,NULL,NULL,1955,1955,1955,1,NULL,4,4,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+743443_1993.txt,743443,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22767_1993.txt,22767,1993,"Item 1. BUSINESS.
+General Development of Business
+Texas - New Mexico Power",Texas-New Mexico Power Company,Texas-New Mexico Power Company,1,NULL,Lewisville,Lewisville,1,1988,Texas,Texas,1,1988,1988,NULL,0,NULL,"1,051",1051,0,NULL,NULL,NULL,NULL,of TNPE,Spurlock,Spurlock,1
+738339_1993.txt,738339,1993,"16 general acute care hospitals in nine states, with a total of 2,028 licensed beds. The","American Healthcare Management, Inc.","American Healthcare Management, Inc.",1,NULL,King of Prussia,King of Prussia,1,Texas,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4800,0,NULL,NULL,NULL,NULL,President and,Volla,Volla,1
+29854_1993.txt,29854,1993,"Item 1. Business
+Douglas & Lomason",Douglas & Lomason Company,Douglas & Lomason Company,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5697,5697,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+97210_1993.txt,97210,1993,"Teradyne, Inc. and all its subsidiaries.
+ELECTRONIC TEST SYSTEMS
+The","Teradyne, Inc.","Teradyne, Inc.",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4000,4000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7383_1993.txt,7383,1993,Ohio corporation in 1917 as a successor to a New Jersey corporation incorporated in 1899. Armco is t,Armco Inc.,Armco Inc.,1,NULL,NULL,NULL,NULL,1899,Ohio,Ohio,1,1899,1899,1899,1,NULL,NULL,6600,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+80661_1993.txt,80661,1993,United States and in Canada. The,The Progressive Corporation,The Progressive Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1965,1965,1965,1,NULL,6101,6101,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+711404_1993.txt,711404,1993,TCC' or the ',"The Cooper Companies, Inc.","The Cooper Companies, Inc.",1,NULL,NULL,NULL,NULL,Delaware,Delaware,Delaware,1,1990,NULL,1980,0,NULL,14,970,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+75042_1993.txt,75042,1993,1895 and was incorporated in the state of Delaware in 1929. The,"Oshkosh B'Gosh, Inc.","Oshkosh B'Gosh, Inc.",1,NULL,Oshkosh,Oshkosh,1,Delaware in,Delaware,Delaware,1,1895,1929,1929,1,NULL,6400,6400,1,NULL,Wisconsin,NULL,0,NULL,NULL,NULL,NULL
+18497_1993.txt,18497,1993,"Since the consumer finance business involves the carrying of receivables, a relatively high ratio of",CenCor,"CenCor, Inc.",0,NULL,NULL,NULL,NULL,Delaware on,Delaware,Delaware,1,NULL,1968,1968,1,NULL,257,257,1,NULL,NULL,NULL,NULL,and President,Berglund,Berglund,1
+33565_1993.txt,33565,1993,Among,"Essex Group, Inc.","Essex Group, Inc.",1,NULL,NULL,NULL,NULL,NULL,NULL,Michigan,0,NULL,1930,1930,1,NULL,NULL,3755,0,NULL,NULL,NULL,NULL,President and,Craft,Craft,1
+745287_1993.txt,745287,1993,"ITEM 1. BUSINESS
+GENERAL
+The",Intermet Corporation,Intermet Corporation,1,NULL,NULL,NULL,NULL,by reference,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4151,4151,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+93469_1993.txt,93469,1993,The,Pittway Corporation,Pittway Corporation,1,NULL,NULL,NULL,NULL,1950,Delaware,Delaware,1,1950,1925,1925,1,NULL,4800,4800,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+354869_1993.txt,354869,1993,ITEM 1. BUSINESS,First Bancorporation of Ohio,First Bancorporation of Ohio,1,NULL,NULL,NULL,NULL,1981 under,Ohio,Ohio,1,1981,1981,1981,1,NULL,2800,2800,1,Naples,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36966_1993.txt,36966,1993,Tennessee corporation incorporated in 1968 and registered as a bank holding company under the Bank H,First Tennessee National Corporation,First Tennessee National Corporation,1,NULL,Memphis,Memphis,1,1968 and,Tennessee,Tennessee,1,1968,1968,1968,1,NULL,5653,5653,1,Memphis,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+799036_1993.txt,799036,1993,"Item 1. Business
+GENERAL
+The","Pioneer Financial Services, Inc.","Pioneer Financial Services, Inc. (PFS)",0,NULL,Schaumburg,Schaumburg,1,Delaware in,Delaware,Delaware,1,1957,1957,1982,0,NULL,NULL,1900,0,Illinois,Illinois,Illinois,1,NULL,NULL,NULL,NULL
+25890_1993.txt,25890,1993,"ITEM 1. BUSINESS
+GENERAL
+Crown Cork & Seal","Crown Cork & Seal Company, Inc.","Crown Cork & Seal Company, Inc.",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,21254,21254,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+846902_1993.txt,846902,1993,The,"Carlisle Plastics, Inc.","Carlisle Plastics, Inc.",1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1985,1985,1,"2,800",2800,2800,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+764764_1993.txt,764764,1993,The,Caterpillar Financial Services Corporation,Caterpillar Financial Services Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+717605_1993.txt,717605,1993,Parent,Hexcel Corporation,Hexcel Corporation,1,NULL,NULL,NULL,NULL,California in,California,California,1,1946,1946,1948,0,"2,340",2340,2340,1,NULL,NULL,NULL,NULL,Directors and,Lee,Lee,1
+92487_1993.txt,92487,1993,"ITEM 1. BUSINESS GENERAL
+The",Southwestern Electric Power Company,Southwestern Electric Power Company,1,NULL,NULL,NULL,NULL,Delaware,Delaware,Delaware,1,NULL,NULL,NULL,NULL,NULL,2033,2033,1,NULL,NULL,NULL,NULL,President and,BREMER,BREMER,1
+79166_1993.txt,79166,1993,"Item 1. Business --------
+The",NULL,NULL,NULL,NULL,New York,New York,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,300,0,NULL,New York,New York,1,Board and,Tash,Tash,1
+355883_1993.txt,355883,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+865227_1993.txt,865227,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+101320_1993.txt,101320,1993,"October 1, 1970 as a New Jersey corporation and as a bank holding company registered under the Bank ",UJB Financial Corp,UJB Financial Corp,1,NULL,Princeton,Princeton,1,1903 and,New Jersey,New Jersey,1,1903,1903,1970,0,NULL,NULL,6219,0,NULL,New Jersey,New Jersey,1,NULL,NULL,NULL,NULL
+64605_1993.txt,64605,1993,"Delaware law in February, 1975. The","Medical Monitors, Inc.","Medical Monitors, Inc.",1,NULL,NULL,NULL,NULL,NULL,Delaware,Delaware,1,NULL,1975,1975,1,NULL,1,1,1,NULL,NULL,NULL,NULL,Director and,Shuster,Shuster,1
+884033_1993.txt,884033,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+17797_1993.txt,17797,1993,"ITEM 1. BUSINESS _________________
+GENERAL _______
+1. COMPANY. Carolina Power & Light",Carolina Power & Light Company,Carolina Power & Light Company,1,NULL,Raleigh,Raleigh,1,public service,North Carolina,North Carolina,1,NULL,NULL,"The company, Carolina Power & Light Company, was formed under the laws of North Carolina in 1926. Therefore, the year the company was originally incorporated or organized is 1926.",0,NULL,8027,8027,1,North Carolina,North Carolina,NULL,0,NULL,NULL,NULL,NULL
+216228_1993.txt,216228,1993,"ITT companies service the United States, Canada and Western Europe and participate in the worldwide ",NULL,ITT Corporation,0,NULL,New York,New York,1,1920,Maryland,Maryland,1,1920,1920,NULL,0,NULL,98000,98000,1,NULL,New York,NULL,0,NULL,NULL,NULL,NULL
+791445_1993.txt,791445,1993,"Partnership, and","Trump Plaza Funding, Inc.","Trump Plaza Funding, Inc.",1,NULL,NULL,NULL,NULL,June 1982,New Jersey,New Jersey,1,1982,1986,"The company, Trump Plaza Funding, Inc., was incorporated on March 14, 1986. Therefore, the answer is 1986.",0,NULL,NULL,3800,0,NULL,NULL,NULL,NULL,has been,Ribis,NULL,0
+719264_1993.txt,719264,1993,"EXPANSION
+Bancshares may, subject to regulatory approval, acquire existing banks or organize new ban",First Citizens National Bank,"First Citizens Bancshares, Inc.",0,NULL,Dyersburg,Dyersburg,1,Tennessee,Tennessee,Tennessee,1,NULL,1900,1982,0,NULL,149,149,1,NULL,Tennessee,Tennessee,1,NULL,NULL,NULL,NULL
+92050_1993.txt,92050,1993,"Item 1. Business.
+Introduction
+Southeastern Public Service",Southeastern Public Service Company,Southeastern Public Service Company,1,NULL,West Palm Beach,West Palm Beach,1,Delaware in,Delaware,Delaware,1,NULL,1947,1947,1,NULL,624,624,1,Florida,Florida,Florida,1,NULL,NULL,NULL,NULL
+788043_1993.txt,788043,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29989_1993.txt,29989,1993,"Denmark, South Africa and Sweden. The TBWA International Network uses the services of associate agen",Omnicom Group Inc.,Omnicom Group Inc.,1,NULL,New York,New York,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14400,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+702163_1993.txt,702163,1993,"445-3400.
+Citizens First Bancorp, Inc. is a bank holding company incorporated in New Jersey and regi","Citizens First Bancorp, Inc.","Citizens First Bancorp, Inc.",1,NULL,Glen Rock,Glen Rock,1,New Jersey,New Jersey,New Jersey,1,1920,1920,NULL,0,NULL,878,878,1,New Jersey,New Jersey,New Jersey,1,NULL,NULL,NULL,NULL
+75252_1993.txt,75252,1993,"Virginia on December 7, 1926 as a successor to a partnership founded in Richmond, Virginia in 1882. ","Owens & Minor, Inc.","Owens & Minor, Inc.",1,NULL,NULL,NULL,NULL,Virginia on,Virginia,Virginia,1,NULL,1926,1926,1,NULL,"1,674","1,674",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+65660_1993.txt,65660,1993,SUPERVISION AND REGULATION MNC is subject to supervision and regulation by the Federal Reserve Board,NULL,Michigan National Corporation,0,NULL,NULL,NULL,NULL,Michigan,Michigan,Michigan,1,NULL,NULL,NULL,NULL,NULL,5900,5900,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+108721_1993.txt,108721,1993,"ITEM 1. BUSINESS
+Wynn's International, Inc., through its subsidiaries, is engaged primarily in the a","Wynn's International, Inc.","Wynn's International, Inc.",1,NULL,Orange,Orange,1,the future,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1,978","1,978",1,California,California,California,1,NULL,NULL,NULL,NULL
+37748_1993.txt,37748,1993,"975- 2000.
+Through Fluor Daniel, Inc. and other domestic and foreign subsidiaries",Fluor Corporation,Fluor Corporation,1,NULL,Irvine,Irvine,1,Delaware in,California,California,1,1924,1924,The company was originally incorporated in 1924.,0,NULL,NULL,NULL,NULL,Irvine,California,California,1,NULL,NULL,NULL,NULL
+701345_1993.txt,701345,1993,State of Delaware. The,"USAir Group, Inc.","USAir Group, Inc.",1,NULL,Arlington,Arlington,1,Delaware,Delaware,Delaware,1,NULL,NULL,"The context mentions that ""USAir Group, Inc. (""USAir Group"" or the ""Company"") is a corporation organized under the laws of the State of Delaware."" However, the specific year of incorporation is not provided. Given the information provided,",0,NULL,NULL,48500,0,Virginia,Virginia,NULL,0,served as,Harris,Schofield,0
+876858_1993.txt,876858,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+310431_1993.txt,310431,1993,The,"CBI Industries, Inc.","CBI Industries, Inc.",1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,1889,1889,1888,0,"7,100",NULL,NULL,NULL,NULL,Delaware,Delaware,1,President and,Jones,Jones,1
+764037_1993.txt,764037,1993,"Fort Lauderdale, Florida, is a supplier of open, scalable computer systems for data center and missi",Encore Computer Corporation,Encore Computer Corporation,1,NULL,NULL,NULL,NULL,Delaware,Delaware,Delaware,1,1983,1983,1983,1,952,952,952,1,NULL,Florida,Florida,1,NULL,NULL,NULL,NULL
+201461_1993.txt,201461,1993,"U.S. government securities, varying the discount rate on member bank borrowings and setting reserve ",NULL,City National Corporation,0,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,1953,1968,1968,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26780_1993.txt,26780,1993,"ITEM 1 - BUSINESS - -----------------
+Dana Corporation, founded in 1905, is a global leader in engin",Dana Corporation,Dana Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1905,1905,1905,1,NULL,36000,36000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+741612_1993.txt,741612,1993,"Item 1. Business.
+General Development of Business
+The","TNP Enterprises, Inc.","TNP Enterprises, Inc.",1,NULL,NULL,NULL,NULL,February 1983,Texas,Texas,1,1983,1983,1983,1,NULL,"1,051","1,051",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+104669_1993.txt,104669,1993,"ITEM 1. BUSINESS.
+The term 'Warner-Lambert' or '",Warner-Lambert Company,Warner-Lambert Company,1,NULL,NULL,NULL,NULL,that state,Delaware,Delaware,1,NULL,1920,1920,1,"35,000",35000,35000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+797463_1993.txt,797463,1993,"1984 in the State of Delaware. Until February 1993, the name of the Corporation was General Electric","General Electric Capital Services, Inc.","General Electric Capital Services, Inc.",1,NULL,Stamford,Stamford,1,1984 in,New York,Delaware,0,1984,1943,1943,1,NULL,NULL,NULL,NULL,Connecticut,Connecticut,Connecticut,1,NULL,NULL,NULL,NULL
+51720_1993.txt,51720,1993,Interstate Power,Interstate Power Company,Interstate Power Company,1,NULL,NULL,NULL,NULL,1925 under,Delaware,Delaware,1,1925,1925,1925,1,NULL,NULL,941,0,NULL,NULL,NULL,NULL,President and,Stoppelmoor,Stoppelmoor,1
+100826_1993.txt,100826,1993,"ITEM 1. BUSINESS.
+GENERAL
+The registrant, Union Electric",Union Electric Company,Union Electric Company,1,NULL,NULL,NULL,NULL,Missouri in,Missouri,Missouri,1,1881,1922,1881,0,NULL,6417,6417,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+40533_1993.txt,40533,1993,"ITEM 1. BUSINESS
+INTRODUCTION
+General Dynamics Corporation",General Dynamics Corporation,General Dynamics Corporation,1,NULL,NULL,NULL,NULL,Delaware,Delaware,Delaware,1,1952,1952,1952,1,NULL,NULL,30500,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+101830_1993.txt,101830,1993,Other subsidiaries are engaged in the wholesale distribution of telecommunications products and the ,Sprint Corporation,Sprint Corporation,1,NULL,NULL,NULL,NULL,1938 under,Kansas,Kansas,1,1938,1938,1938,1,NULL,50500,50500,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33619_1993.txt,33619,1993,The,Esterline Technologies Corporation,Esterline Technologies Corporation,1,NULL,NULL,NULL,NULL,August 1967,NULL,NULL,NULL,1967,1967,1967,1,NULL,NULL,2800,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+215419_1993.txt,215419,1993,"Item 1. BUSINESS
+The","Checkpoint Systems, Inc.","Checkpoint Systems, Inc.",1,NULL,Thorofare,Thorofare,1,Pennsylvania as,Pennsylvania,NULL,0,NULL,1969,1969,1,NULL,NULL,"1,366",0,NJ,New Jersey,New Jersey,1,NULL,NULL,NULL,NULL
+40454_1993.txt,40454,1993,"64 million at December 31, 1993. Woodland Bank, which operates from one office in Tulsa and has plan",NULL,"BOATMEN'S BANCSHARES, INC.",0,NULL,St. Louis,St. Louis,1,Missouri in,Missouri,Missouri,1,NULL,1946,1946,1,NULL,NULL,NULL,NULL,St,Missouri,Missouri,1,NULL,NULL,NULL,NULL
+77227_1993.txt,77227,1993,"ITEM 1. BUSINESS.
+Pennsylvania Electric",Pennsylvania Electric Company,Pennsylvania Electric Company,1,NULL,NULL,NULL,NULL,1919,Pennsylvania,Pennsylvania,1,1919,1919,"The company, Pennsylvania Electric Company, was incorporated in 1919 according to the provided text. Therefore, the earliest year of incorporation is 1919.",0,"3,532",3532,3532,1,NULL,NULL,NULL,NULL,Board and,Leva,Leva,1
+65358_1993.txt,65358,1993,"1. Real Estate Investment and Management.
+2. Manufacture and Sale of Resilient Vinyl Flooring.
+3. Ma",United Capital Corp,United Capital Corp,1,NULL,NULL,NULL,NULL,1980 in,Delaware,Delaware,1,1980,1980,1980,1,NULL,890,890,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+54502_1993.txt,54502,1993,Subsidiaries of,"K N Energy, Inc.","K N Energy, Inc.",1,NULL,NULL,NULL,NULL,Kansas on,Kansas,Kansas,1,1989,NULL,1927,0,NULL,1735,1735,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+37785_1993.txt,37785,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+893486_1993.txt,893486,1993,The Wasson ODC Unit and the Wasson Willard Unit are production units formed by the various interest ,NULL,Santa Fe Energy Trust,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+91576_1993.txt,91576,1993,"Because the merger, which was accounted for as a pooling of interests, occurred subsequent to Decemb",KeyCorp,KeyCorp,1,NULL,Cleveland,Cleveland,1,Ohio,Ohio,Ohio,1,1958,1958,1958,1,NULL,12038,12038,1,NULL,Ohio,Ohio,1,NULL,NULL,NULL,NULL
+790603_1993.txt,790603,1993,NULL,"JMB Income Properties, Ltd. - XIII","JMB Income Properties, Ltd. - XIII",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1986,1986,1986,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Rigel Barber,Barber,Barber,1
+94601_1993.txt,94601,1993,Item 1. Business,"Stone & Webster, Incorporated","Stone & Webster, Incorporated",1,NULL,NULL,Boston,0,Delaware,Delaware,Delaware,1,NULL,1929,1929,1,NULL,6000,6000,1,NULL,Massachusetts,Massachusetts,1,NULL,NULL,NULL,NULL
+92088_1993.txt,92088,1993,"December 31, 1991 of South Central Bell Telephone","BellSouth Telecommunications, Inc.","BellSouth Telecommunications, Inc.",1,NULL,Atlanta,Atlanta,1,1967 under,Delaware,Delaware,1,1967,1879,NULL,0,NULL,NULL,81400,0,Georgia,Georgia,NULL,0,NULL,NULL,NULL,NULL
+832427_1993.txt,832427,1993,"Delaware on March 23, 1971 as DCL Health Laboratories Incorporated and adopted its current name on J",National Health Laboratories Incorporated,National Health Laboratories Incorporated,1,NULL,La Jolla,La Jolla,1,Delaware on,Delaware,Delaware,1,NULL,1971,1971,1,"7,700",7700,10650,0,California,California,California,1,NULL,NULL,NULL,NULL
+83047_1993.txt,83047,1993,Reliance Insurance,Reliance Financial Services Corporation,Reliance Financial Services Corporation,1,NULL,NULL,NULL,NULL,the state,Pennsylvania,NULL,0,1987,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+893928_1993.txt,893928,1993,Holdings was renamed Entergy Corporation. Entergy Corporation is a holding company registered under ,Entergy Corporation,Entergy Corporation,1,NULL,NULL,NULL,NULL,Florida on,Florida,Florida,1,1949,1925,"The earliest year mentioned for the company's incorporation is 1949, when Entergy Corporation was originally incorporated under the laws of the State of Florida.",0,NULL,16525,16679,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+789292_1993.txt,789292,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Directors and,Jones,Jones,1
+95301_1993.txt,95301,1993,"Divestitures
+During 1991",Sequa Corporation,Sequa Corporation,1,NULL,NULL,NULL,NULL,1929 and,NULL,NULL,NULL,1929,1929,1929,1,NULL,10250,10250,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7536_1993.txt,7536,1993,NULL,NULL,"Arrow Electronics, Inc.",0,NULL,Melville,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4600,4600,1,Melville,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+854884_1993.txt,854884,1993,"ITEM 1. BUSINESS
+The",Chicago and North Western Holdings Corp,Chicago and North Western Holdings Corp,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1836,1836,1,NULL,NULL,6158,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10456_1993.txt,10456,1993,"Baxter and its subsidiaries.
+The",Baxter International Inc.,Baxter International Inc.,1,NULL,NULL,NULL,NULL,NULL,Delaware,Delaware,1,NULL,1931,1931,1,NULL,60400,60400,1,NULL,NULL,NULL,NULL,board and,LOUCKS,LOUCKS,1
+53347_1993.txt,53347,1993,General Development of Business,Jefferson-Pilot Corporation,Jefferson-Pilot Corporation,1,NULL,Greensboro,Greensboro,1,North Carolina,NULL,North Carolina,0,NULL,1968,1968,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,President and,Stonecipher,Stonecipher,1
+882240_1993.txt,882240,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+74208_1993.txt,74208,1993,NULL,"United Dominion Realty Trust, Inc.","United Dominion Realty Trust, Inc.",1,NULL,NULL,NULL,NULL,Virginia,Virginia,Virginia,1,1972,1972,1972,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+352363_1993.txt,352363,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+815917_1993.txt,815917,1993,"National Association of Securities Dealers, Inc.
+As of February 25, 1994, the Partnership was compri","Edward D. Jones & Co., L.P.","The Jones Financial Companies, a Limited Partnership",0,NULL,St. Louis,St. Louis,1,Missouri,Missouri,Missouri,1,1871,1871,1871,1,NULL,8086,8086,1,NULL,NULL,NULL,NULL,NULL,Bachmann,Bachmann,1
+14957_1993.txt,14957,1993,These materials typically comprise a small portion of the final product's cost. They are generally p,Brush Wellman Inc.,Brush Wellman Inc.,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1,803",1803,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9892_1993.txt,9892,1993,"Item 1. Business
+General Development of Business
+The","C. R. Bard, Inc.","C. R. Bard, Inc.",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1923,1923,1,NULL,8450,8450,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+860713_1993.txt,860713,1993,Rocky Mountain region of the United States. In addition,Snyder Oil Corporation,Snyder Oil Corporation,1,NULL,NULL,Fort Worth,0,National Petroleum,NULL,NULL,NULL,1969,NULL,NULL,NULL,NULL,327,327,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+66904_1993.txt,66904,1993,"ALABAMA is a corporation organized under the laws of the State of Alabama on November 10, 1927, by t",SOUTHERN,SOUTHERN,1,NULL,NULL,NULL,NULL,Delaware on,Delaware,Delaware,1,NULL,1945,1906,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,President and,NULL,NULL,NULL
+740763_1993.txt,740763,1993,NULL,"Gilbert Associates, Inc.","Gilbert Associates, Inc.",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1942,1942,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+315189_1993.txt,315189,1993,"ITEM 1. BUSINESS.
+PRODUCTS
+Deere &",Deere & Company,Deere & Company,1,NULL,NULL,NULL,NULL,Delaware in,Delaware,NULL,0,NULL,1958,"The company was incorporated under the laws of Delaware in 1958. Therefore, the answer is 1958.",0,NULL,NULL,33070,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+93675_1993.txt,93675,1993,"Over the years Starrett and its subsidiaries have constructed a wide range of office, industrial, pu",Starrett Housing Corporation,Starrett Housing Corporation,1,NULL,NULL,NULL,NULL,New York,New York,New York,1,NULL,1922,1922,1,NULL,"1,100","1,100",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+847322_1993.txt,847322,1993,NULL,CRIIMI MAE Inc.,CRIIMI MAE Inc.,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+836400_1993.txt,836400,1993,Holding,"Dr Pepper/Seven-Up Companies, Inc.","Dr Pepper/Seven-Up Companies, Inc.",1,NULL,NULL,NULL,NULL,1988 whose,Delaware,Delaware,1,1988,1988,1988,1,NULL,952,952,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+771950_1993.txt,771950,1993,The,"Westwood One, Inc.","Westwood One, Inc.",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,269,269,269,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20164_1993.txt,20164,1993,All of,Chrysler Financial Corporation,Chrysler Financial Corporation,1,NULL,NULL,NULL,NULL,1926,Michigan,Michigan,1,1926,1926,1926,1,NULL,3100,3100,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+15393_1993.txt,15393,1993,"BNA was founded in 1929, and was incorporated in its present form as an employee owned company in 19","The Bureau of National Affairs, Inc.","The Bureau of National Affairs, Inc.",1,NULL,Rockville,Rockville,1,its present,NULL,NULL,NULL,1929,1947,1947,1,NULL,NULL,"1,796",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36270_1993.txt,36270,1993,New York business corporation which is registered as a bank holding company under the Bank Holding,First Empire State Corporation,First Empire State Corporation,1,NULL,Buffalo,Buffalo,1,November 1969,New York,New York,1,1969,1969,NULL,0,NULL,3655,3655,1,New York,New York,NULL,0,NULL,NULL,NULL,NULL
+40874_1993.txt,40874,1993,"Item 1. Business
+GTE Southwest Incorporated",GTE Southwest Incorporated,GTE Southwest Incorporated,1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1926,1926,1,NULL,7184,7184,1,NULL,NULL,NULL,NULL,NULL,Appel,Appel,1
+812701_1993.txt,812701,1993,The,Calgon Carbon,Calgon Carbon,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1942,NULL,NULL,NULL,NULL,NULL,"1,320",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+81061_1993.txt,81061,1993,"Lakeland, Florida and was incorporated in Florida on December 27, 1921. The","Publix Super Markets, Inc.","Publix Super Markets, Inc.",1,NULL,Lakeland,Lakeland,1,Florida on,Florida,Florida,1,NULL,1921,1921,1,NULL,NULL,NULL,NULL,NULL,Florida,Florida,1,NULL,NULL,NULL,NULL
+92195_1993.txt,92195,1993,"Item 1. BUSINESS
+GENERAL
+Southern Indiana Gas and Electric",Southern Indiana Gas and Electric Company,Southern Indiana Gas and Electric Company,1,NULL,NULL,NULL,NULL,Generating,NULL,Indiana,0,NULL,1912,1912,1,NULL,774,774,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+828530_1993.txt,828530,1993,NULL,ADMIRAL FINANCIAL CORP,ADMIRAL FINANCIAL CORP,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1987,1987,1987,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,and President,Popham,Popham,1
+67646_1993.txt,67646,1993,Monongahela Power,"Allegheny Power System, Inc.","Allegheny Power System, Inc.",1,NULL,NULL,NULL,NULL,Maryland in,Maryland,Maryland,1,1981,1981,"The earliest year mentioned for incorporation or organization is 1916, when West Penn was incorporated. However, since the context mentions multiple entities and their respective years of incorporation, the earliest year across all entities mentioned is 1916 for",0,NULL,NULL,6025,0,NULL,NULL,NULL,NULL,Director and,Bennett,Bennett,1
+49423_1993.txt,49423,1993,"ITEM 1. BUSINESS - ----------------- General
+Aquarion",Aquarion Company,Aquarion Company,1,NULL,Bridgeport,Bridgeport,1,Delaware as,Delaware,Delaware,1,1969,1969,The company was originally incorporated in 1969.,0,NULL,NULL,NULL,NULL,Connecticut,Connecticut,Connecticut,1,President and,McGregor,McGregor,1
+814153_1993.txt,814153,1993,"State of Colorado on March 10, 1987. The","Pro Quest, Inc.","Pro Quest, Inc.",1,NULL,NULL,NULL,NULL,Colorado on,Colorado,Colorado,1,NULL,1987,1987,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Petrucci,Petrucci,1
+77242_1993.txt,77242,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20947_1993.txt,20947,1993,"Item 1. Business
+THE CENTERIOR SYSTEM
+Centerior Energy is a public utility holding company and the p",Centerior Energy,Centerior Energy,1,NULL,NULL,NULL,NULL,Ohio in,Ohio,Ohio,1,1986,NULL,1892,0,NULL,6748,6748,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+821026_1993.txt,821026,1993,NULL,The Andersons Management Corp.,The Andersons Management Corp.,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1987,1987,1987,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,President and,Anderson,Anderson,1
+716006_1993.txt,716006,1993,Preston Trucking,NULL,Yellow Corporation,0,NULL,Overland Park,Overland Park,1,NULL,Delaware,Delaware,1,NULL,NULL,NULL,NULL,NULL,NULL,35000,0,Overland Park,NULL,Kansas,0,NULL,NULL,NULL,NULL
+95395_1993.txt,95395,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+793421_1993.txt,793421,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,President and,Latiolais,Latiolais,1
+2024_1993.txt,2024,1993,"Item 1. Business
+Ace Hardware Corporation was formally organized as a Delaware corporation in 1964. ",Ace Hardware Corporation,Ace Hardware Corporation,1,NULL,Oak Brook,Oak Brook,1,Guam,Illinois,Illinois,1,1928,1928,1928,1,"3,405",3405,3405,1,Illinois,Illinois,NULL,0,President and,Peterson,Peterson,1
+33798_1993.txt,33798,1993,"Michigan in 1919 as E.S. Evans and Co., Inc., then was reincorporated in Delaware in 1923. In 1931",Grossman's Inc.,Grossman's Inc.,1,NULL,NULL,NULL,NULL,Michigan in,Michigan,Michigan,1,NULL,1919,1919,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+90185_1993.txt,90185,1993,"Company succeeded, as a reporting company, Sigma International, Ltd., the predecessor of Sigma Chemi",Sigma-Aldrich Corporation,Sigma-Aldrich Corporation,1,NULL,St. Louis,St. Louis,1,Delaware in,Delaware,Delaware,1,NULL,1975,1975,1,NULL,NULL,5110,0,Missouri,Missouri,Missouri,1,NULL,NULL,NULL,NULL
+36377_1993.txt,36377,1993,"Delaware corporation, is a registered bank holding company under the Bank Holding","First Hawaiian, Inc.","First Hawaiian, Inc.",1,NULL,NULL,NULL,NULL,Pacific Ocean,Delaware,Delaware,1,NULL,1890,NULL,0,NULL,3116,3116,1,Honolulu,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+721083_1993.txt,721083,1993,"Company's revenues, with the remainder to the mining and industrial markets. The following table set","Smith International, Inc.","Smith International, Inc.",1,NULL,NULL,NULL,NULL,Hong Kong,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1750,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+81100_1993.txt,81100,1993,"ITEM 1. BUSINESS
+THE COMPANY
+The",Puget Sound Power & Light Company,Puget Sound Power & Light Company,1,NULL,NULL,NULL,NULL,Washington furnishing,Washington,Washington,1,NULL,NULL,NULL,NULL,NULL,2609,2609,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+100783_1993.txt,100783,1993,"ITEM 1. BUSINESS
+GENERAL
+Union Camp Corporation is a Virginia corporation resulting from a merger in",Union Camp Corporation,Union Camp Corporation,1,NULL,NULL,NULL,NULL,Virginia,Virginia,Virginia,1,NULL,NULL,NULL,NULL,NULL,19000,19000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+766829_1993.txt,766829,1993,"California on February 8, 1985, is a holding company with three wholly-owned subsidiaries, San Jose ",SJW Corp,SJW Corp,1,NULL,San Jose,San Jose,1,California on,California,California,1,1866,1931,1931,1,NULL,274,NULL,0,NULL,California,California,1,President and,Weinhardt,Weinhardt,1
+88204_1993.txt,88204,1993,The,Sealed Air Corporation,Sealed Air Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1994,NULL,NULL,NULL,NULL,2750,2750,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+16906_1993.txt,16906,1993,"Item 1. Business
+General
+Canal Electric",Canal Electric Company,Canal Electric Company,1,NULL,NULL,NULL,NULL,1902 under,Massachusetts,Massachusetts,1,1902,1902,1902,1,NULL,124,124,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+766701_1993.txt,766701,1993,"April 15, 1985 in the state of Maryland and commenced operations in September 1985. The",Capstead Mortgage Corporation,Capstead Mortgage Corporation,1,NULL,NULL,NULL,NULL,NULL,Maryland,Maryland,1,NULL,1985,1985,1,83,83,83,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30547_1993.txt,30547,1993,"General description of business
+The",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2036,2036,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+73124_1993.txt,73124,1993,"Item 1 - -Business
+NORTHERN TRUST CORPORATION
+Northern Trust Corporation is a bank holding company w",Northern Trust Corporation,Northern Trust Corporation,1,NULL,Chicago,Chicago,1,Delaware in,Delaware,Delaware,1,NULL,1889,"The company, Northern Trust Corporation, was organized in Delaware in 1971. Therefore, the answer is 1971.",0,NULL,6259,6259,1,NULL,Delaware,Delaware,1,NULL,NULL,NULL,NULL
+46080_1993.txt,46080,1993,General Development of Business ------------------------------- The,"Hasbro, Inc.","Hasbro, Inc.",1,NULL,NULL,NULL,NULL,Rhode Island,Rhode Island,Rhode Island,1,NULL,NULL,1926,0,NULL,NULL,12500,0,NULL,Rhode Island,Rhode Island,1,NULL,NULL,NULL,NULL
+740868_1993.txt,740868,1993,North America. The,Indiana corporation (the Company),"The registrant, an Indiana corporation (hereinafter, the ""Company"")",0,NULL,NULL,Elkhart,0,NULL,NULL,Indiana,0,NULL,NULL,NULL,NULL,NULL,NULL,3500,0,Elkhart,Indiana,Indiana,1,NULL,NULL,NULL,NULL
+708823_1993.txt,708823,1993,Additionally,"Centocor, Inc.","Centocor, Inc.",1,NULL,Malvern,Malvern,1,Pennsylvania in,Pennsylvania,Pennsylvania,1,NULL,1979,1979,1,500,500,500,1,Pennsylvania,Pennsylvania,NULL,0,President and,Holveck,Holveck,1
+277577_1993.txt,277577,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,President and,Friedman,Friedman,1
+49071_1993.txt,49071,1993,"Humana Inc. and its subsidiaries.
+On March 1, 1993",Humana Inc.,Humana Inc.,1,NULL,Louisville,Louisville,1,January 1993,Delaware,Delaware,1,1961,1961,1961,1,"8,800",8800,8800,1,Kentucky,Kentucky,Kentucky,1,NULL,NULL,NULL,NULL
+77943_1993.txt,77943,1993,"In return, registrant will provide development resources, separation technology, engineering know-ho",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2,012",2012,2012,1,NULL,NULL,NULL,NULL,Board and,Nasser,NULL,0
+67686_1993.txt,67686,1993,"ITEM 1. BUSINESS.
+Monsanto",Monsanto Company,Monsanto Company,1,NULL,NULL,NULL,NULL,1933 under,Delaware,Missouri,0,1933,1901,1901,1,NULL,30000,30000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30573_1993.txt,30573,1993,"ITEM 1. BUSINESS.
+General - ------------------------------------------------------------------------",Duquesne Light Company,Duquesne Light Company,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1989,1912,NULL,0,NULL,NULL,4042,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+52466_1993.txt,52466,1993,Ionics' products and services are used by,"Ionics, Incorporated","Ionics, Incorporated",1,NULL,Watertown,Watertown,1,Massachusetts in,Massachusetts,Massachusetts,1,NULL,NULL,1948,0,NULL,1300,"1,300",0,Massachusetts,Massachusetts,Massachusetts,1,and Director,Goldstein,Goldstein,1
+799319_1993.txt,799319,1993,The,"IDB Communications Group, Inc.","IDB Communications Group, Inc.",1,NULL,Culver,Culver City,0,Delaware,Delaware,Delaware,1,1983,1983,NULL,0,780,780,780,1,California,California,California,1,has been,Sudikoff,Sudikoff,1
+60026_1993.txt,60026,1993,"Item 1. Business
+The",Lockheed Corporation,Lockheed Corporation,1,NULL,Calabasas,Calabasas,1,California in,California,California,1,NULL,1932,1932,1,NULL,83500,83500,1,California,California,California,1,NULL,NULL,NULL,NULL
+72909_1993.txt,72909,1993,"Item 1. Business
+Northern States Power",Northern States Power Company,Northern States Power Company,1,NULL,Eau Claire,Eau Claire,1,1901 under,Wisconsin,Wisconsin,1,1901,1901,1901,1,893,893,893,1,Wisconsin,Wisconsin,Wisconsin,1,NULL,NULL,NULL,NULL
+806086_1993.txt,806086,1993,"1990. Nova MicroSonics, located in Mahwah, New Jersey, manufactures and markets real time and off-li",ATL,"Advanced Technology Laboratories, Inc.",0,NULL,Issaquah,Issaquah,1,1983 as,NULL,NULL,NULL,1969,1969,NULL,0,NULL,"1,977","1,977",1,Munich,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+801124_1993.txt,801124,1993,NULL,"Vanguard Real Estate Fund I, A Sales-Commission-Free Income Properties Fund","Vanguard Real Estate Fund I, A Sales-Commission-Free Income Properties Fund",1,NULL,NULL,NULL,NULL,NULL,Massachusetts,Massachusetts,1,NULL,1986,1986,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+105839_1993.txt,105839,1993,Monongahela Power,"Allegheny Power System, Inc.","Allegheny Power System, Inc.",1,NULL,NULL,NULL,NULL,Maryland in,Maryland,Maryland,1,1981,1981,"The earliest year mentioned for incorporation or organization is 1916, when West Penn was incorporated. However, since the context mentions multiple entities and their respective years of incorporation, the earliest year across all entities mentioned is 1916 for",0,NULL,NULL,6025,0,NULL,NULL,NULL,NULL,Director and,Bennett,Bennett,1
+25445_1993.txt,25445,1993,"Item 1. Business --------
+The company is a diversified manufacturer of engineered industrial product",Crane Co.,Crane Co.,1,NULL,NULL,NULL,NULL,Washington based,Washington,NULL,0,1855,1855,1855,1,NULL,8700,8700,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+13239_1993.txt,13239,1993,"Item 1. Business - ------- --------
+The",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1899,1899,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,was elected,Shames,Shames,1
+311094_1993.txt,311094,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+47129_1993.txt,47129,1993,1993 were manufactured by Ford Motor,NULL,The Hertz Corporation,0,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1967,1967,1,NULL,17950,17950,1,NULL,NULL,NULL,NULL,President and,Palm,Olson,0
+205402_1993.txt,205402,1993,"Item 1. Business ------- --------
+Graybar Electric","Graybar Electric Company, Inc.","Graybar Electric Company, Inc.",1,NULL,St. Louis,St. Louis,1,the State,New York,New York,1,NULL,1925,1925,1,NULL,5100,5100,1,Missouri,Missouri,Missouri,1,NULL,NULL,NULL,NULL
+36326_1993.txt,36326,1993,FFMC was incorporated as a Georgia corporation in 1971. Since becoming a public company in 1983,First Financial Management Corporation,First Financial Management Corporation,1,NULL,NULL,NULL,NULL,Georgia,Georgia,Georgia,1,1964,NULL,1971,0,NULL,4000,11500,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+859257_1993.txt,859257,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+79879_1993.txt,79879,1993,France and one plant each in England and Germany. These plants produce a variety of industrial and a,PPG Industries Inc,PPG Industries Inc.,0,NULL,NULL,NULL,NULL,Pennsylvania in,Pennsylvania,Pennsylvania,1,NULL,1883,1883,1,NULL,31400,31400,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+42293_1993.txt,42293,1993,Golden West or,Golden West Financial Corporation,Golden West Financial Corporation,1,NULL,Oakland,Oakland,1,1959 and,California,California,1,1959,1959,1959,1,NULL,3635,3635,1,Oakland,California,NULL,0,Board and,Sandler,Sandler,1
+3153_1993.txt,3153,1993,"ALABAMA is a corporation organized under the laws of the State of Alabama on November 10, 1927, by t",SOUTHERN,SOUTHERN,1,NULL,NULL,NULL,NULL,Delaware on,Delaware,Delaware,1,NULL,1945,1906,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,President and,NULL,NULL,NULL
+9548_1993.txt,9548,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+311871_1993.txt,311871,1993,"Item 1. Business
+INTRODUCTION AND DEVELOPMENTS IN 1993
+Pope & Talbot is engaged principally in the w",Pope & Talbot,Pope & Talbot,1,NULL,NULL,NULL,NULL,Delaware,Delaware,California,0,1993,1940,1940,1,NULL,3100,3100,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+354396_1993.txt,354396,1993,Casualty Loss Reserves 7 1.7. Life Benefit Reserves 11 1.8. Geographical Distribution 11 1.9. Execut,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+96943_1993.txt,96943,1993,"ITEM 1. BUSINESS
+The",Teleflex Incorporated,Teleflex Incorporated,1,NULL,NULL,NULL,NULL,1943 as,NULL,NULL,NULL,1943,1943,1943,1,NULL,8000,8000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+728586_1993.txt,728586,1993,American Express,Lehman Brothers Inc.,Lehman Brothers Inc.,1,NULL,New York,New York,1,Delaware,Delaware,Delaware,1,NULL,1965,1965,1,NULL,NULL,7500,0,New York are complemented by offices in 19 additional locations in the United States,New York,New York,1,NULL,NULL,NULL,NULL
+93542_1993.txt,93542,1993,"ITEM 1. BUSINESS.
+The",NULL,NULL,NULL,NULL,NULL,NULL,NULL,these items,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2370,2370,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+96638_1993.txt,96638,1993,The,Advanta Corp,Advanta Corp,1,NULL,Claymont,Claymont,1,Delaware in,Delaware,Delaware,1,1951,1974,1974,1,NULL,"1,614","1,614",1,NULL,Delaware,Delaware,1,NULL,NULL,NULL,NULL
+99193_1993.txt,99193,1993,"Transamerica was incorporated in Delaware in 1928.
+The",Transamerica Finance Corporation,Transamerica Finance Corporation,1,NULL,Chicago,Chicago,1,Delaware in,Delaware,NULL,0,1920,1920,"The company was originally incorporated in Delaware in 1931 under the name Pacific Finance Corporation, as successor to a California corporation of the same name organized in 1920. Given that the earliest year mentioned for incorporation or organization is",0,NULL,2381,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+52477_1993.txt,52477,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+277821_1993.txt,277821,1993,The,National Education Corporation,National Education Corporation,1,NULL,NULL,NULL,NULL,California in,California,California,1,1993,1954,"The company was originally incorporated in California in 1954. Therefore, the answer is 1954.",0,NULL,NULL,4200,0,suburban Chicago,Illinois,NULL,0,NULL,NULL,NULL,NULL
+72903_1993.txt,72903,1993,"Item 1 - Business
+Northern States Power",Northern States Power Company,Northern States Power Company,1,NULL,Minneapolis,Minneapolis,1,1909 under,Minnesota,Minnesota,1,1909,1909,"The company, Northern States Power Company, was incorporated in 1909. Therefore, the earliest year mentioned for the company's incorporation is 1909.",0,NULL,7880,7880,1,Minnesota,Minnesota,MINNESOTA,1,NULL,NULL,NULL,NULL
+86772_1993.txt,86772,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30554_1993.txt,30554,1993,NULL,DuPont,DuPont,1,NULL,Wilmington,Wilmington,1,Delaware in,Delaware,Delaware,1,1802,1915,1915,1,NULL,114000,114000,1,NULL,Delaware,Delaware,1,NULL,NULL,NULL,NULL
+276999_1993.txt,276999,1993,"ITEM 1. BUSINESS - - -----------------
+The",Benjamin Moore & Co.,Benjamin Moore & Co.,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1962,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+73902_1993.txt,73902,1993,Ogden Government Services and Atlantic Design,Ogden Services Corporation,Ogden Corporation,0,NULL,New York,New York,1,through a,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Charlotte,NULL,New York,0,NULL,NULL,NULL,NULL
+774203_1993.txt,774203,1993,"North Carolina corporation, is a bank holding company registered under the Bank Holding",Wachovia Corporation,Wachovia Corporation,1,NULL,NULL,NULL,NULL,the United,North Carolina,North Carolina,1,NULL,NULL,NULL,NULL,NULL,15531,15531,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7323_1993.txt,7323,1993,Holdings was renamed Entergy Corporation. Entergy Corporation is a holding company registered under ,Entergy Corporation,Entergy Corporation,1,NULL,NULL,NULL,NULL,Florida on,Florida,Florida,1,1949,1925,"The earliest year mentioned for the company's incorporation is 1949, when Entergy Corporation was originally incorporated under the laws of the State of Florida.",0,NULL,16525,16679,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+55785_1993.txt,55785,1993,NULL,Kimberly-Clark Corporation,Kimberly-Clark Corporation,1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1928,1928,1,NULL,42131,42131,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24454_1993.txt,24454,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+313616_1993.txt,313616,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+79732_1993.txt,79732,1993,"Item 1 BUSINESS - ------ -------- GENERAL - -------
+Potomac Electric Power",Potomac Electric Power Company,Potomac Electric Power Company,1,NULL,NULL,NULL,NULL,the District,District of Columbia,District of Columbia,1,NULL,1896,1896,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Board and,Mitchell,Mitchell,1
+732714_1993.txt,732714,1993,"NYNEX's dominant industry segment is Telecommunications, which includes New York Telephone",NYNEX Corporation,NYNEX Corporation,1,NULL,White Plains,White Plains,1,New York,NULL,Delaware,0,1991,NULL,1983,0,NULL,76200,76200,1,New York,New York,New York,1,NULL,NULL,NULL,NULL
+352947_1993.txt,352947,1993,Engelhard Industries and Minerals & Chemicals Divisions. In 1981,Engelhard Corporation,Engelhard Corporation,1,NULL,Iselin,Iselin,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5750,5750,1,NULL,New Jersey,New Jersey,1,NULL,NULL,NULL,NULL
+740582_1993.txt,740582,1993,State of Maryland. The,Balcor Realty Investors 84-Series II,Balcor Realty Investors 84-Series II,1,NULL,NULL,NULL,NULL,NULL,NULL,Maryland,0,NULL,NULL,NULL,NULL,NULL,74,74,1,NULL,NULL,NULL,NULL,NULL,Meador,Meador,1
+74928_1993.txt,74928,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+72971_1993.txt,72971,1993,Delaware in 1929 and registered under the Bank Holding,Norwest Corporation,Norwest Corporation,1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1929,1929,1,NULL,35000,35000,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+103392_1993.txt,103392,1993,"General Development of Business -------------------------------
+Continental Can","Continental Can Company, Inc.","Continental Can Company, Inc.",1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1970,1970,1,NULL,3712,3712,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+50548_1993.txt,50548,1993,"ITEM 1. BUSINESS.
+Inland Steel",Inland Steel Company,Inland Steel Company,1,NULL,NULL,NULL,NULL,Delaware,NULL,Delaware,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+101382_1993.txt,101382,1993,1967 under Missouri law for the purpose of becoming a bank holding company registered under the Bank,"United Missouri Bancshares, Inc.","United Missouri Bancshares, Inc.",1,NULL,NULL,NULL,NULL,1967 under,Missouri,Missouri,1,1967,1967,1967,1,NULL,3718,3718,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+840216_1993.txt,840216,1993,"ITEM 1. BUSINESS
+Koll Real Estate Group, Inc., a Delaware corporation, formerly known as The Bolsa C","Koll Real Estate Group, Inc.","Koll Real Estate Group, Inc.",1,NULL,Newport Beach,Newport Beach,1,Delaware,Delaware,Delaware,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,California,California,California,1,NULL,NULL,NULL,NULL
+107832_1993.txt,107832,1993,"ITEM 1. BUSINESS
+THE COMPANY
+On March 1, 1988, after obtaining shareowner and all the necessary regu",Wisconsin Power and Light Company,Wisconsin Power and Light Company,1,NULL,NULL,NULL,NULL,Wisconsin on,Wisconsin,Wisconsin,1,1992,NULL,1917,0,NULL,2673,2673,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+714655_1993.txt,714655,1993,"Australia and New Zealand.
+Recombinant Beta Interferon
+Natural beta interferon is a protein produced",Biogen,"Biogen, Inc.",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,380,380,380,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36995_1993.txt,36995,1993,North Carolina in 1967 and is registered as a bank holding company under the Bank Holding,First Union Corporation,First Union Corporation,1,NULL,Charlotte,Charlotte,1,North Carolina,North Carolina,North Carolina,1,NULL,1967,1967,1,NULL,NULL,NULL,NULL,North Carolina,North Carolina,North Carolina,1,Chairman and,Crutchfield,Crutchfield,1
+740694_1993.txt,740694,1993,"Keene Corporation, another wholly owned subsidiary of Bairnco, which was then known as Kaydon Corpor",Kaydon Corporation,Kaydon Corporation,1,NULL,NULL,NULL,NULL,United Kingdom,NULL,NULL,NULL,1983,1983,1983,1,NULL,"1,671","1,671",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+35527_1993.txt,35527,1993,"ITEM 1. BUSINESS
+FIFTH THIRD BANCORP
+ORGANIZATION",FIFTH THIRD BANCORP,FIFTH THIRD BANCORP,1,NULL,Cincinnati,Cincinnati,1,1974 under,Ohio,Ohio,1,1974,1974,1974,1,NULL,NULL,NULL,NULL,NULL,Ohio,Ohio,1,NULL,NULL,NULL,NULL
+814677_1993.txt,814677,1993,"Delaware corporation, is a transportation equipment leasing company specializing in the management o","PLM International, Inc.","PLM International, Inc.",1,NULL,NULL,NULL,NULL,Delaware,Delaware,Delaware,1,NULL,NULL,NULL,NULL,NULL,215,215,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+100923_1993.txt,100923,1993,"Delaware on September 23, 1980 and is the successor to a business which was originally incorporated ",UNION TANK CAR COMPANY,UNION TANK CAR COMPANY,1,NULL,NULL,NULL,NULL,New Jersey,New Jersey,New Jersey,1,1891,1891,1891,1,NULL,3570,3570,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+66740_1993.txt,66740,1993,Item 1. Business. Minnesota Mining and Manufacturing,Minnesota Mining and Manufacturing Company,Minnesota Mining and Manufacturing Company,1,NULL,NULL,NULL,NULL,1929 under,Minnesota,Delaware,0,1929,1902,1929,0,NULL,86168,86168,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25885_1993.txt,25885,1993,"Item 1. BUSINESS
+General
+Crown Central Petroleum Corporation and subsidiaries",Crown Central Petroleum Corporation,Crown Central Petroleum Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3031,3031,1,NULL,NULL,NULL,NULL,Board and,Rosenberg,Rosenberg,1
+92236_1993.txt,92236,1993,It is engaged through Sonat Exploration,Sonat Inc.,Sonat Inc.,1,NULL,Birmingham,Birmingham,1,Delaware in,Delaware,Delaware,1,1989,NULL,1973,0,NULL,NULL,2230,0,Houston,Alabama,Alabama,1,NULL,NULL,NULL,NULL
+200245_1993.txt,200245,1993,NULL,Salomon Inc,Salomon Inc,1,NULL,NULL,NULL,NULL,1960 under,Delaware,Delaware,1,1960,1960,1960,1,NULL,8640,8640,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+310433_1993.txt,310433,1993,"Item 1. Business.
+The",C-TEC Corporation,C-TEC Corporation,1,NULL,Wilkes-Barre,Wilkes-Barre,1,the Commonwealth,Pennsylvania,Pennsylvania,1,1979,1979,1979,1,"1,282",1282,1282,1,Wilkes-Barre,Pennsylvania,Pennsylvania,1,NULL,NULL,NULL,NULL
+860004_1993.txt,860004,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+754737_1993.txt,754737,1993,748-3000. SCANA holds all the capital stock of each of its subsidiaries except for the Preferred Sto,SCANA,SCANA,1,NULL,NULL,Columbia,0,South Carolina,South Carolina,South Carolina,1,NULL,1984,1984,1,NULL,4788,4788,1,NULL,South Carolina,South Carolina,1,NULL,NULL,NULL,NULL
+74783_1993.txt,74783,1993,"ITEM 1. BUSINESS.
+The",Acceptance Insurance Companies Inc.,Acceptance Insurance Companies Inc.,1,NULL,NULL,NULL,NULL,1968 in,Ohio,Ohio,1,1968,1968,1968,1,NULL,838,838,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1800_1993.txt,1800,1993,"ITEM 1. BUSINESS
+GENERAL DEVELOPMENT OF BUSINESS
+Abbott Laboratories is an Illinois corporation, inc",Abbott Laboratories,Abbott Laboratories,1,NULL,NULL,NULL,NULL,1900,Illinois,Illinois,1,1900,1900,1900,1,NULL,49659,49659,1,NULL,Illinois,Illinois,1,NULL,NULL,NULL,NULL
+105418_1993.txt,105418,1993,"Weis Markets, Inc. is a Pennsylvania business corporation formed in 1924. The","Weis Markets, Inc.","Weis Markets, Inc.",1,NULL,Sunbury,Sunbury,1,Pennsylvania business,Pennsylvania,Pennsylvania,1,1924,1924,1924,1,NULL,15000,15,0,Sunbury,Pennsylvania,NULL,0,NULL,NULL,NULL,NULL
+711513_1993.txt,711513,1993,The,McDonnell Douglas Finance Corporation,McDonnell Douglas Finance Corporation,1,NULL,NULL,NULL,NULL,Delaware in,Delaware,Delaware,1,NULL,1968,1968,1,NULL,110,110,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+48305_1993.txt,48305,1993,"ITEM 1. BUSINESS
+Honeywell Inc",Honeywell Inc.,Honeywell Inc.,1,NULL,Minneapolis,Minneapolis,1,1927,Delaware,Delaware,1,1927,1927,1927,1,NULL,52300,52300,1,NULL,MINNESOTA,MINNESOTA,1,NULL,NULL,NULL,NULL
+711604_1993.txt,711604,1993,NULL,Carlyle Real Estate Limited Partnership-XIII,Carlyle Real Estate Limited Partnership-XIII,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1982,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Rigel Barber,Barber,Barber,1
+9659_1993.txt,9659,1993,"ITEM 1. BUSINESS.
+General
+The",Signet Bank Corporation,Signet Bank Corporation,1,NULL,NULL,NULL,NULL,Virginia in,Virginia,Virginia,1,NULL,1962,The company was originally incorporated in 1962.,0,NULL,5753,5753,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9534_1993.txt,9534,1993,The majority of Bandag's franchisees are independent operators of full service tire distributorships,Bandag Corporation,"Bandag, Incorporated",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2334,2334,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+59198_1993.txt,59198,1993,NULL,TRINOVA Corporation,TRINOVA Corporation,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,15012,15012,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+351145_1993.txt,351145,1993,"With an emphasis on technical disciplines, Intergraph systems combine graphics workstations, servers",Intergraph Corporation,Intergraph Corporation,1,NULL,NULL,NULL,NULL,Delaware,Delaware,Delaware,1,1969,1969,1969,1,NULL,NULL,9500,0,The Netherlands,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+51296_1993.txt,51296,1993,Parent,Navistar International Transportation Corp,Navistar International Transportation Corp,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,13611,13611,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+15840_1993.txt,15840,1993,"General Development of Business
+The",NULL,NULL,NULL,NULL,NULL,Kansas City,0,Missouri in,Missouri,Missouri,1,NULL,1902,1901,0,NULL,3064,3064,1,Kansas City,Missouri,Missouri,1,Board and,West,West,1
+71180_1993.txt,71180,1993,"ITEM 1. BUSINESS
+THE COMPANY
+Nevada Power",Nevada Power Company,Nevada Power Company,1,NULL,NULL,NULL,NULL,1929 under,Nevada,Nevada,1,1929,1929,1929,1,NULL,NULL,1741,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34501_1993.txt,34501,1993,Farah Manufacturing,Farah Incorporated,Farah Incorporated,1,NULL,NULL,NULL,NULL,Texas,Texas,Texas,1,NULL,1947,1947,1,NULL,5300,5300,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7431_1993.txt,7431,1993,"Item 1. Business - -----------------
+Armstrong World Industries, Inc. is a Pennsylvania corporation ","Armstrong World Industries, Inc.","Armstrong World Industries, Inc.",1,NULL,NULL,NULL,NULL,1891,Pennsylvania,Pennsylvania,1,1891,1891,1891,1,NULL,21000,21000,1,NULL,NULL,NULL,NULL,NULL,Lorch,Lorch,1
+310158_1993.txt,310158,1993,Notes to Consolidated Financial Statements in,Schering-Plough Corporation,Schering-Plough Corporation,1,NULL,NULL,NULL,NULL,1970,NULL,New Jersey,0,1970,1970,1970,1,NULL,NULL,21600,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7649_1993.txt,7649,1993,"PRIMARY METALS
+PRINCIPAL PRODUCTS AND MARKETS
+COPPER
+The primary domestic uses of copper are in the ",Asarco Incorporated,Asarco,0,NULL,NULL,NULL,NULL,1899,New Jersey,New Jersey,1,1899,1899,1899,1,NULL,NULL,8500,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25600_1993.txt,25600,1993,Yosemite Insurance,"American General Finance, Inc.","American General Finance, Inc.",1,NULL,Evansville,Evansville,1,Indiana in,Indiana,Indiana,1,1926,1920,1974,0,NULL,7300,7300,1,NULL,Indiana,Indiana,1,NULL,NULL,NULL,NULL
+34285_1993.txt,34285,1993,The,Reliability Incorporated,Reliability Incorporated,1,NULL,NULL,NULL,NULL,Texas in,Texas,Texas,1,1984,NULL,1953,0,NULL,409,409,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4310_1993.txt,4310,1993,"Periodontal Fiber had been cleared for marketing in the United States, where it will be marketed by ",NULL,ALZA Corporation,0,NULL,Palo Alto,Palo Alto,1,California on,California,California,1,1988,NULL,1968,0,NULL,NULL,"1,078",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+351979_1993.txt,351979,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+31986_1993.txt,31986,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+722079_1993.txt,722079,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+49588_1993.txt,49588,1993,A chart illustrating ICH's holding company system and identifying each ICH,I.C.H. Corporation,I.C.H. Corporation,1,NULL,NULL,NULL,NULL,Delaware during,Missouri,Missouri,1,1966,1966,1966,1,NULL,NULL,"1,320",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+732712_1993.txt,732712,1993,"January 1, 1984, of those assets of the American Telephone and Telegraph",Bell Atlantic Corporation,Bell Atlantic Corporation,1,NULL,Philadelphia,Philadelphia,1,1983 under,Delaware,Delaware,1,1983,1983,1983,1,NULL,NULL,73600,0,Pennsylvania,Pennsylvania,NULL,0,NULL,NULL,NULL,NULL
+722573_1993.txt,722573,1993,"293,000 at January 1, 1994. The","Maxicare Health Plans, Inc.","Maxicare Health Plans, Inc.",1,NULL,Los Angeles,Los Angeles,1,California on,California,California,1,1981,NULL,"The earliest year mentioned for the company's incorporation or organization is 1980. Specifically, the text states: ""The Company was incorporated in California on December 23, 1980, to serve as a holding company for",0,465,465,465,1,California,California,California,1,NULL,NULL,NULL,NULL
+64803_1993.txt,64803,1993,"United States. On December 31, 1993",Melville Corporation,Melville Corporation,1,NULL,Rye,Rye,1,New York,New York,New York,1,NULL,NULL,NULL,NULL,NULL,111000,111000,1,Rye,New York,New York,1,NULL,NULL,NULL,NULL
+817473_1993.txt,817473,1993,1986 to provide financial advisory services to and invest in small and medium sized businesses. On A,"American Capital Strategies, Ltd.","American Capital Strategies, Ltd.",1,NULL,NULL,NULL,NULL,1986 to,Delaware,Delaware,1,1986,1986,1986,1,NULL,NULL,22,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+52485_1993.txt,52485,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Liu,Liu,1
+310569_1993.txt,310569,1993,"Missouri corporation whose origins date back to 1875. In addition to ABI, which is the world's large","Anheuser-Busch Companies, Inc.","Anheuser-Busch Companies, Inc.",1,NULL,NULL,NULL,NULL,1979 as,Delaware,Missouri,0,1979,1979,1979,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+859119_1993.txt,859119,1993,"Delaware on January 27, 1989. The",Illinois Central Corporation,Illinois Central Corporation,1,NULL,Chicago,Chicago,1,Delaware on,Delaware,Delaware,1,1993,NULL,1989,0,NULL,NULL,3306,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+78066_1993.txt,78066,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+277509_1993.txt,277509,1993,"Item 1. Business.
+Federal Signal Corporation, founded in 1901, was reincorporated as a Delaware Corp",Federal Signal Corporation,Federal Signal Corporation,1,NULL,NULL,NULL,NULL,Delaware,NULL,NULL,NULL,1901,1901,1901,1,NULL,NULL,4426,0,NULL,NULL,NULL,NULL,President and,Ross,Ross,1
+64908_1993.txt,64908,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+893958_1993.txt,893958,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+868482_1993.txt,868482,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+765813_1993.txt,765813,1993,NULL,"JMB Income Properties, Ltd. - XII","JMB Income Properties, Ltd. - XII",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1984,1984,1984,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Rigel Barber,Barber,Barber,1
+351825_1993.txt,351825,1993,"ITEM 1. BUSINESS
+First National Bancorp",First National Bancorp,First National Bancorp,1,NULL,NULL,NULL,NULL,Georgia business,Georgia,Georgia,1,NULL,1980,1980,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+64782_1993.txt,64782,1993,Pennsylvania in August 1971 and registered under the Federal Bank Holding,Mellon Bank Corporation,Mellon Bank Corporation,1,NULL,Pittsburgh,Pittsburgh,1,Pennsylvania in,Pennsylvania,Pennsylvania,1,NULL,1971,1971,1,NULL,21400,21400,1,NULL,Pennsylvania,Pennsylvania,1,NULL,NULL,NULL,NULL
+75527_1993.txt,75527,1993,"ITEM 1. BUSINESS
+PACIFIC ENTERPRISES
+Pacific Enterprises is a Los Angeles-based utility holding comp",Pacific Enterprises,Pacific Enterprises,1,NULL,Los Angeles,Los Angeles,1,California in,California,California,1,1886,1886,1886,1,NULL,NULL,NULL,NULL,California,California,California,1,NULL,NULL,NULL,NULL
+821480_1993.txt,821480,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Directors and,Jones,Jones,1
+793548_1993.txt,793548,1993,"Florida was dissolved.
+- On December 31, 1991, MC sold The York Bank and Trust",NULL,Midlantic Corporation,0,NULL,Philadelphia,Edison,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"5,863",5863,5863,1,Edison,New Jersey,New Jersey,1,NULL,NULL,NULL,NULL
+63073_1993.txt,63073,1993,"Massachusetts law on January 2, 1926, and is a registered holding company under the Public Utility H",New England Electric System,New England Electric System (NEES),0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5000,5000,1,NULL,NULL,NULL,NULL,President and,NULL,NULL,NULL
+36672_1993.txt,36672,1993,BankWorcester acquisition have been submitted to the OCC and the Massachusetts BBI. Neither transact,NULL,Bank of Boston Corporation,0,NULL,Boston,Boston,1,Massachusetts,Massachusetts,Massachusetts,1,1970,1970,1970,1,NULL,18600,18600,1,Massachusetts,Massachusetts,MASSACHUSETTS,1,NULL,NULL,NULL,NULL
+879209_1993.txt,879209,1993,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+705752_1993.txt,705752,1993,"Securities and Exchange Commission on September 20, 1983",Century Properties Fund XIX,Century Properties Fund XIX,1,NULL,NULL,NULL,NULL,August 1982,California,California,1,1982,1982,1982,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
