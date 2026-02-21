@@ -3,4 +3,7 @@
 *.pyc
 __pycache__/ 
 .env 
-.DS_Store 
+.DS_Store  
+
+notebooks/ai-investigation.ipynb 
+.agent/*

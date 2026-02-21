@@ -20,16 +20,22 @@
 EDGAR-Haystack/
 ├── data/
 │   ├── extracted/           # LLM extraction outputs
-│   └── ground_truth/        # Validated "gold standard" CSVs
+│   ├── ground_truth/        # Validated "gold standard" CSVs
+│   ├── clean_ground_truth/  # Cleaned & anchored output CSVs
+│   └── logs/
+│       └── difflib/         # Diff reports from anchoring pipeline
 ├── notebooks/
 │   ├── extraction/          # Ground truth extraction notebooks
+│   │   ├── ground_truth_cleanup.ipynb  # Main cleanup pipeline
 │   │   ├── llama_3.3_70B_instruct/
 │   │   ├── qwen_2.5_32B_instruct/
+│   │   └── gemini/
 │   │   └── _archived_prompts/
 │   └── experimentation/     # NIAH shuffling experiments
 ├── docs/
+│   ├── plan/                # Pipeline plans & design docs
 │   ├── Beyond_Haystack_RS_Paper.pdf
-│   └── reference/           # Partner's code (read-only reference)
+│   └── reference/           # Partner's code (read-only reference or other paper's code)
 ```
 
 ## 📊 Data Naming Conventions
@@ -47,14 +53,14 @@ Example: `v1_250_1-6-2025.csv`
 ## 🛠️ Development Guidelines
 
 - **Prefer Notebooks:** Write logic in notebooks or standalone scripts. No package abstraction yet.
-- **Reference Code:** Check `docs/reference/gt_extract/` before inventing new prompts or regex.
-- **Hardware:** We run on Lambda Labs GPUs (A100-40GB). Code should be efficient.
+- **Hardware:** We run on Lambda Labs GPUs (A100-40GB or H100s). Code should be efficient. If we are using Gemini API Key, we wouldn't have to worry about the hardware, but for the opens weighted models we do.
 
 ### File Modification Rules
 
 - **GEMINI.md & README.md:** May modify without permission.
 - **All other files:** Ask for permission before making changes.
 - **Questions about code:** Show proposed changes, wait for approval.
+- **For Data Investigation or Analysis:** use `notebooks/extraction/needle-investigation.ipynb`
 
 ### When Unsure
 
