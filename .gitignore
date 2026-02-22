@@ -6,7 +6,8 @@ __pycache__/
 .DS_Store  
 
 notebooks/ai-investigation.ipynb 
-.agent/*
+.agent/* 
+.agents/* 
 .vscode/
 .idea/
 build/
