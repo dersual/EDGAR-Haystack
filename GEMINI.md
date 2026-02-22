@@ -26,7 +26,7 @@ EDGAR-Haystack/
 │       └── difflib/         # Diff reports from anchoring pipeline
 ├── notebooks/
 │   ├── extraction/          # Ground truth extraction notebooks
-│   │   ├── ground_truth_cleanup.ipynb  # Main cleanup pipeline
+│   │   ├── edgar_ground_truth_cleanup.ipynb  # Main cleanup pipeline
 │   │   ├── llama_3.3_70B_instruct/
 │   │   ├── qwen_2.5_32B_instruct/
 │   │   └── gemini/

@@ -7,3 +7,15 @@ __pycache__/
 
 notebooks/ai-investigation.ipynb 
 .agent/*
+.vscode/
+.idea/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/ 
+
+data/logs/difflib/*.txt
+
+data/logs/diff_reports/*.txt

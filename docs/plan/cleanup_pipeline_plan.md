@@ -68,11 +68,11 @@ Incorporating all your feedback, here is the new design:
 graph TD
     A["Step 1: Load & Configure"] --> B["Step 2: Merge EDGAR Sections"]
     B --> C["Step 3: Standardize Nulls"]
-    C --> D["Step 4: Verify & Anchor Loop<br/>(max N passes)"]
-    D --> E{"All anchored<br/>or max tries?"}
-    E -->|No| D
-    E -->|Yes| F["Step 5: Quality Metrics + Diff Report"]
-    F --> G["Step 6: Visualize"]
+    C --> D["Step 4: Quality Metrics + Visualize<br/>(PRE-ANCHOR baseline)"]
+    D --> E["Step 5: Verify & Anchor Loop<br/>(max N passes)"]
+    E --> F{"All anchored<br/>or max tries?"}
+    F -->|No| E
+    F -->|Yes| G["Step 6: Quality Metrics + Visualize<br/>(POST-ANCHOR) + Diff Report"]
     G --> H["Step 7: Save Clean Output"]
 ```
 
@@ -98,7 +98,13 @@ graph TD
 - Ensure every field has a `_source_sentence` column (create as `pd.Series(dtype="object")` if missing)
 - **Drop all IRS Tax ID columns** here, before further processing
 
-### Step 4: Verify & Anchor (Iterative Loop)
+### Step 4: Quality Metrics + Visualize (PRE-ANCHOR)
+
+- Compute per-field stats: verified %, unique/total source sentences, value-found-but-source-missing counts
+- Stacked bar chart: Verified Found / Unverified Found / Valid Negative / Error
+- **Same reusable function** called again in Step 6 — this gives a baseline snapshot before anchoring
+
+### Step 5: Verify & Anchor (Iterative Loop)
 
 This is the core of the pipeline, designed as a **reusable, modular loop**.
 
@@ -117,19 +123,15 @@ For **each field**, for **each row where value is not NaN**:
 
 **Retry logic**: Run this loop up to N times (e.g., 3). After each pass, check how many rows still have `_value` but no `_source_sentence`. If the count didn't decrease, stop early. This handles the case where manual edits introduced whitespace/newline issues that the first pass missed but a re-anchor with relaxed matching catches.
 
-### Step 5: Quality Metrics + Diff Report
+### Step 6: Quality Metrics + Visualize (POST-ANCHOR) + Diff Report
 
-- Compute per-field stats: verified %, unique/total source sentences, value-found-but-source-missing counts
+- **Same metrics/visualization function** as Step 4 — now shows improvements from anchoring
+- Delta comparison printed: e.g., _"registrant_name: anchored 56 → 242 (+186)"_
 - Use `difflib` to generate a **log file** for every evidence snippet that:
   - Failed to verify
   - Had its source_sentence changed during anchoring
   - Had mismatches between evidence and the closest match in the section
-- Save this log as a separate `.txt` or `.md` file alongside the output CSV
-
-### Step 6: Visualize
-
-- Stacked bar chart: Verified Found / Unverified Found / Valid Negative / Error
-- Keep it simple
+- Save diff log to `data/logs/difflib/`
 
 ### Step 7: Save Clean Output
 
