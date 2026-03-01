@@ -31,7 +31,7 @@ EDGAR-Haystack/
 │   │   ├── qwen_2.5_32B_instruct/
 │   │   └── gemini/
 │   │   └── _archived_prompts/
-│   └── experimentation/     # NIAH shuffling experiments
+│   └── experimentation/     # Experiments with the ground truth data
 ├── docs/
 │   ├── plan/                # Pipeline plans & design docs
 │   ├── Beyond_Haystack_RS_Paper.pdf
@@ -53,14 +53,21 @@ Example: `v1_250_1-6-2025.csv`
 ## 🛠️ Development Guidelines
 
 - **Prefer Notebooks:** Write logic in notebooks or standalone scripts. No package abstraction yet.
-- **Hardware:** We run on Lambda Labs GPUs (A100-40GB or H100s). Code should be efficient. If we are using Gemini API Key, we wouldn't have to worry about the hardware, but for the opens weighted models we do.
+- **Hardware:** We run on Lambda Labs GPUs (A100-40GB or H100s). Code should be efficient. If we are using Gemini API Key, we wouldn't have to worry about the hardware, but for the opens weighted models we do.  
+
+## Best Practices
+
+- Adhere to SOLID principles.
+- Avoid hard-coded values — use config files, environment variables, or centralized constants.
+- Remove dead/unused code; keep implementations minimal and focused.
+- Prefer small, single-responsibility functions and clear, descriptive names.
+- Comment intent ("why"), not implementation ("what"); keep comments concise.
 
 ### File Modification Rules
 
 - **GEMINI.md & README.md:** May modify without permission.
-- **All other files:** Ask for permission before making changes.
-- **Questions about code:** Show proposed changes, wait for approval.
-- **For Data Investigation or Analysis:** use `notebooks/extraction/needle-investigation.ipynb`
+- **All other files:** Ask for permission before making changes. (If changes are to be made put them in the side panel and wait for approval.)
+- **For Data Investigation or Analysis:** Generate the code in the side panel and ask for it to be implemented in the `notebooks/extraction/ai-investigation.ipynb`
 
 ### When Unsure
 

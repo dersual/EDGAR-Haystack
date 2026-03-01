@@ -7,7 +7,7 @@ __pycache__/
 
 notebooks/ai-investigation.ipynb 
 .agent/* 
-.agents/* 
+.copilot/* 
 .vscode/
 .idea/
 build/
@@ -20,3 +20,5 @@ htmlcov/
 data/logs/difflib/*.txt
 
 data/logs/diff_reports/*.txt
+
+data/retrieval_heads/raw/
