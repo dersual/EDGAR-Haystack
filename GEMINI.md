@@ -38,6 +38,14 @@ EDGAR-Haystack/
 │   └── reference/           # Partner's code (read-only reference or other paper's code)
 ```
 
+### Reference Repositories (Snapshots)
+
+The `docs/reference/` directory contains frozen snapshots of partner code to ensure reproducibility. To avoid nested `.git` issues, these are maintained as static copies.
+* **Ananya's Code:** `docs/reference/ananya-code/` (Upstream: https://github.com/4n4ny4/iahd_experiments)
+* **Harry's Code:** `docs/reference/harry-code/` (Upstream: https://github.com/harryila/iahdClean/tree/main)
+
+*Note: These directories are excluded in `.geminiignore` to prevent AI context pollution, but can be referenced explicitly.*
+
 ## 📊 Data Naming Conventions
 
 ### Extracted Data (`data/extracted/`)
@@ -61,7 +69,8 @@ Example: `v1_250_1-6-2025.csv`
 - Avoid hard-coded values — use config files, environment variables, or centralized constants.
 - Remove dead/unused code; keep implementations minimal and focused.
 - Prefer small, single-responsibility functions and clear, descriptive names.
-- Comment intent ("why"), not implementation ("what"); keep comments concise.
+- Comment intent ("why"), not implementation ("what"); keep comments concise. 
+- Before calling a tool or running a command, explain why you are calling it and what you expect it to do.
 
 ### File Modification Rules
 
