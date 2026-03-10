@@ -21,4 +21,4 @@ data/logs/difflib/*.txt
 
 data/logs/diff_reports/*.txt
 
-data/retrieval_heads/*/raw/
+data/retrieval_heads/01_extractions/*/raw_tensors/
