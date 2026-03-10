@@ -1,0 +1,335 @@
+{
+  "registrant_name": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 39,
+      "matches": 34,
+      "accuracy": 0.8717948717948718
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 39,
+      "matches": 34,
+      "accuracy": 0.8717948717948718
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 39,
+      "matches": 32,
+      "accuracy": 0.8205128205128205
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 39,
+      "matches": 31,
+      "accuracy": 0.7948717948717948
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 39,
+      "matches": 32,
+      "accuracy": 0.8205128205128205
+    }
+  },
+  "headquarters_city": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 29,
+      "matches": 23,
+      "accuracy": 0.7931034482758621
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 29,
+      "matches": 23,
+      "accuracy": 0.7931034482758621
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 29,
+      "matches": 24,
+      "accuracy": 0.8275862068965517
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 29,
+      "matches": 24,
+      "accuracy": 0.8275862068965517
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 29,
+      "matches": 20,
+      "accuracy": 0.6896551724137931
+    }
+  },
+  "headquarters_state": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 27,
+      "matches": 23,
+      "accuracy": 0.8518518518518519
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 27,
+      "matches": 22,
+      "accuracy": 0.8148148148148148
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 27,
+      "matches": 23,
+      "accuracy": 0.8518518518518519
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 27,
+      "matches": 23,
+      "accuracy": 0.8518518518518519
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 27,
+      "matches": 21,
+      "accuracy": 0.7777777777777778
+    }
+  },
+  "incorporation_state": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 31,
+      "matches": 26,
+      "accuracy": 0.8387096774193549
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 31,
+      "matches": 26,
+      "accuracy": 0.8387096774193549
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 31,
+      "matches": 26,
+      "accuracy": 0.8387096774193549
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 31,
+      "matches": 26,
+      "accuracy": 0.8387096774193549
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 31,
+      "matches": 27,
+      "accuracy": 0.8709677419354839
+    }
+  },
+  "incorporation_year": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 31,
+      "matches": 19,
+      "accuracy": 0.6129032258064516
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 31,
+      "matches": 20,
+      "accuracy": 0.6451612903225806
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 31,
+      "matches": 22,
+      "accuracy": 0.7096774193548387
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 31,
+      "matches": 22,
+      "accuracy": 0.7096774193548387
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 31,
+      "matches": 20,
+      "accuracy": 0.6451612903225806
+    }
+  },
+  "employees_count_total": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 28,
+      "matches": 16,
+      "accuracy": 0.5714285714285714
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 28,
+      "matches": 16,
+      "accuracy": 0.5714285714285714
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 28,
+      "matches": 17,
+      "accuracy": 0.6071428571428571
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 28,
+      "matches": 25,
+      "accuracy": 0.8928571428571429
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 28,
+      "matches": 13,
+      "accuracy": 0.4642857142857143
+    }
+  },
+  "holder_record_amount": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 29,
+      "matches": 3,
+      "accuracy": 0.10344827586206896
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 29,
+      "matches": 4,
+      "accuracy": 0.13793103448275862
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 29,
+      "matches": 1,
+      "accuracy": 0.034482758620689655
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 29,
+      "matches": 0,
+      "accuracy": 0.0
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 29,
+      "matches": 0,
+      "accuracy": 0.0
+    }
+  },
+  "employees_count_full_time": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 10,
+      "matches": 6,
+      "accuracy": 0.6
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 10,
+      "matches": 5,
+      "accuracy": 0.5
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 10,
+      "matches": 5,
+      "accuracy": 0.5
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 10,
+      "matches": 8,
+      "accuracy": 0.8
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 10,
+      "matches": 6,
+      "accuracy": 0.6
+    }
+  },
+  "ceo_lastname": {
+    "1": {
+      "k": 1,
+      "heads_ablated": 1,
+      "attempts": 31,
+      "matches": 23,
+      "accuracy": 0.7419354838709677
+    },
+    "2": {
+      "k": 2,
+      "heads_ablated": 2,
+      "attempts": 31,
+      "matches": 23,
+      "accuracy": 0.7419354838709677
+    },
+    "5": {
+      "k": 5,
+      "heads_ablated": 5,
+      "attempts": 31,
+      "matches": 23,
+      "accuracy": 0.7419354838709677
+    },
+    "10": {
+      "k": 10,
+      "heads_ablated": 10,
+      "attempts": 31,
+      "matches": 18,
+      "accuracy": 0.5806451612903226
+    },
+    "20": {
+      "k": 20,
+      "heads_ablated": 20,
+      "attempts": 31,
+      "matches": 16,
+      "accuracy": 0.5161290322580645
+    }
+  }
+}

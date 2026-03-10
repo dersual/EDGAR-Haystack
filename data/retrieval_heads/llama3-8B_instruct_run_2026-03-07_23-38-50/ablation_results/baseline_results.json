@@ -1,0 +1,47 @@
+{
+  "employees_count_total": {
+    "attempts": 28,
+    "matches": 14,
+    "accuracy": 0.5
+  },
+  "incorporation_year": {
+    "attempts": 31,
+    "matches": 22,
+    "accuracy": 0.7096774193548387
+  },
+  "registrant_name": {
+    "attempts": 39,
+    "matches": 36,
+    "accuracy": 0.9230769230769231
+  },
+  "headquarters_city": {
+    "attempts": 29,
+    "matches": 22,
+    "accuracy": 0.7586206896551724
+  },
+  "ceo_lastname": {
+    "attempts": 31,
+    "matches": 23,
+    "accuracy": 0.7419354838709677
+  },
+  "headquarters_state": {
+    "attempts": 27,
+    "matches": 21,
+    "accuracy": 0.7777777777777778
+  },
+  "incorporation_state": {
+    "attempts": 31,
+    "matches": 24,
+    "accuracy": 0.7741935483870968
+  },
+  "holder_record_amount": {
+    "attempts": 29,
+    "matches": 5,
+    "accuracy": 0.1724137931034483
+  },
+  "employees_count_full_time": {
+    "attempts": 10,
+    "matches": 6,
+    "accuracy": 0.6
+  }
+}

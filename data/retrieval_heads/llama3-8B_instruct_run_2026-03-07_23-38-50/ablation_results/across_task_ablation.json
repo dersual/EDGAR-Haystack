@@ -1,0 +1,272 @@
+{
+  "1": {
+    "k": 1,
+    "heads_ablated": 1,
+    "overall_accuracy": 0.6784313725490196,
+    "total_attempts": 255,
+    "total_matches": 173,
+    "per_task": {
+      "employees_count_total": {
+        "attempts": 28,
+        "matches": 16,
+        "accuracy": 0.5714285714285714
+      },
+      "incorporation_year": {
+        "attempts": 31,
+        "matches": 19,
+        "accuracy": 0.6129032258064516
+      },
+      "registrant_name": {
+        "attempts": 39,
+        "matches": 34,
+        "accuracy": 0.8717948717948718
+      },
+      "headquarters_city": {
+        "attempts": 29,
+        "matches": 23,
+        "accuracy": 0.7931034482758621
+      },
+      "ceo_lastname": {
+        "attempts": 31,
+        "matches": 23,
+        "accuracy": 0.7419354838709677
+      },
+      "headquarters_state": {
+        "attempts": 27,
+        "matches": 23,
+        "accuracy": 0.8518518518518519
+      },
+      "incorporation_state": {
+        "attempts": 31,
+        "matches": 26,
+        "accuracy": 0.8387096774193549
+      },
+      "holder_record_amount": {
+        "attempts": 29,
+        "matches": 3,
+        "accuracy": 0.10344827586206896
+      },
+      "employees_count_full_time": {
+        "attempts": 10,
+        "matches": 6,
+        "accuracy": 0.6
+      }
+    }
+  },
+  "2": {
+    "k": 2,
+    "heads_ablated": 2,
+    "overall_accuracy": 0.6666666666666666,
+    "total_attempts": 255,
+    "total_matches": 170,
+    "per_task": {
+      "employees_count_total": {
+        "attempts": 28,
+        "matches": 15,
+        "accuracy": 0.5357142857142857
+      },
+      "incorporation_year": {
+        "attempts": 31,
+        "matches": 20,
+        "accuracy": 0.6451612903225806
+      },
+      "registrant_name": {
+        "attempts": 39,
+        "matches": 34,
+        "accuracy": 0.8717948717948718
+      },
+      "headquarters_city": {
+        "attempts": 29,
+        "matches": 22,
+        "accuracy": 0.7586206896551724
+      },
+      "ceo_lastname": {
+        "attempts": 31,
+        "matches": 23,
+        "accuracy": 0.7419354838709677
+      },
+      "headquarters_state": {
+        "attempts": 27,
+        "matches": 22,
+        "accuracy": 0.8148148148148148
+      },
+      "incorporation_state": {
+        "attempts": 31,
+        "matches": 26,
+        "accuracy": 0.8387096774193549
+      },
+      "holder_record_amount": {
+        "attempts": 29,
+        "matches": 2,
+        "accuracy": 0.06896551724137931
+      },
+      "employees_count_full_time": {
+        "attempts": 10,
+        "matches": 6,
+        "accuracy": 0.6
+      }
+    }
+  },
+  "5": {
+    "k": 5,
+    "heads_ablated": 5,
+    "overall_accuracy": 0.6745098039215687,
+    "total_attempts": 255,
+    "total_matches": 172,
+    "per_task": {
+      "employees_count_total": {
+        "attempts": 28,
+        "matches": 14,
+        "accuracy": 0.5
+      },
+      "incorporation_year": {
+        "attempts": 31,
+        "matches": 21,
+        "accuracy": 0.6774193548387096
+      },
+      "registrant_name": {
+        "attempts": 39,
+        "matches": 34,
+        "accuracy": 0.8717948717948718
+      },
+      "headquarters_city": {
+        "attempts": 29,
+        "matches": 23,
+        "accuracy": 0.7931034482758621
+      },
+      "ceo_lastname": {
+        "attempts": 31,
+        "matches": 23,
+        "accuracy": 0.7419354838709677
+      },
+      "headquarters_state": {
+        "attempts": 27,
+        "matches": 22,
+        "accuracy": 0.8148148148148148
+      },
+      "incorporation_state": {
+        "attempts": 31,
+        "matches": 26,
+        "accuracy": 0.8387096774193549
+      },
+      "holder_record_amount": {
+        "attempts": 29,
+        "matches": 3,
+        "accuracy": 0.10344827586206896
+      },
+      "employees_count_full_time": {
+        "attempts": 10,
+        "matches": 6,
+        "accuracy": 0.6
+      }
+    }
+  },
+  "10": {
+    "k": 10,
+    "heads_ablated": 7,
+    "overall_accuracy": 0.6745098039215687,
+    "total_attempts": 255,
+    "total_matches": 172,
+    "per_task": {
+      "employees_count_total": {
+        "attempts": 28,
+        "matches": 15,
+        "accuracy": 0.5357142857142857
+      },
+      "incorporation_year": {
+        "attempts": 31,
+        "matches": 21,
+        "accuracy": 0.6774193548387096
+      },
+      "registrant_name": {
+        "attempts": 39,
+        "matches": 34,
+        "accuracy": 0.8717948717948718
+      },
+      "headquarters_city": {
+        "attempts": 29,
+        "matches": 23,
+        "accuracy": 0.7931034482758621
+      },
+      "ceo_lastname": {
+        "attempts": 31,
+        "matches": 22,
+        "accuracy": 0.7096774193548387
+      },
+      "headquarters_state": {
+        "attempts": 27,
+        "matches": 23,
+        "accuracy": 0.8518518518518519
+      },
+      "incorporation_state": {
+        "attempts": 31,
+        "matches": 26,
+        "accuracy": 0.8387096774193549
+      },
+      "holder_record_amount": {
+        "attempts": 29,
+        "matches": 2,
+        "accuracy": 0.06896551724137931
+      },
+      "employees_count_full_time": {
+        "attempts": 10,
+        "matches": 6,
+        "accuracy": 0.6
+      }
+    }
+  },
+  "20": {
+    "k": 20,
+    "heads_ablated": 7,
+    "overall_accuracy": 0.6745098039215687,
+    "total_attempts": 255,
+    "total_matches": 172,
+    "per_task": {
+      "employees_count_total": {
+        "attempts": 28,
+        "matches": 15,
+        "accuracy": 0.5357142857142857
+      },
+      "incorporation_year": {
+        "attempts": 31,
+        "matches": 21,
+        "accuracy": 0.6774193548387096
+      },
+      "registrant_name": {
+        "attempts": 39,
+        "matches": 34,
+        "accuracy": 0.8717948717948718
+      },
+      "headquarters_city": {
+        "attempts": 29,
+        "matches": 23,
+        "accuracy": 0.7931034482758621
+      },
+      "ceo_lastname": {
+        "attempts": 31,
+        "matches": 22,
+        "accuracy": 0.7096774193548387
+      },
+      "headquarters_state": {
+        "attempts": 27,
+        "matches": 23,
+        "accuracy": 0.8518518518518519
+      },
+      "incorporation_state": {
+        "attempts": 31,
+        "matches": 26,
+        "accuracy": 0.8387096774193549
+      },
+      "holder_record_amount": {
+        "attempts": 29,
+        "matches": 2,
+        "accuracy": 0.06896551724137931
+      },
+      "employees_count_full_time": {
+        "attempts": 10,
+        "matches": 6,
+        "accuracy": 0.6
+      }
+    }
+  }
+}
