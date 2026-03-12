@@ -1,0 +1,14 @@
+{
+  "source_ranking": "/content/rank_2026-03-10_19-23-13",
+  "timestamp": "2026-03-11_10-00-32",
+  "ablation_k_values": [
+    8,
+    16,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "source_model": "meta-llama/Meta-Llama-3-8B-Instruct"
+}
