@@ -1,5 +1,5 @@
 # EDGAR-Haystack
-
+(Lowkey this description below is outdated, but keeping it here for posterity. Will update soon.)
 Recreating "Beyond the Haystack" paper findings using SEC 10-K filings on Lambda Cloud GPUs.
 
 ## Project Overview
