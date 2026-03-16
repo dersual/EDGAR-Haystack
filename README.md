@@ -1,91 +1,69 @@
 # EDGAR-Haystack
-(Lowkey this description below is outdated, but keeping it here for posterity. Will update soon.)
-Recreating "Beyond the Haystack" paper findings using SEC 10-K filings on Lambda Cloud GPUs.
+
+A dual-phase research repository focused on dataset creation from SEC 10-K filings and the subsequent mechanistic interpretability of Retrieval Heads in Large Language Models.
 
 ## Project Overview
 
-This repository extracts data points from SEC 10-K filings (EDGAR Corpus) to investigate how LLMs retrieve information from financial documents under "shuffled" text conditions.
+This repository is split into two primary research phases:
 
-**Core Question:** Do models perform differently on shuffled vs unshuffled financial text?
+1.  **Dataset Creation (Extraction):** Constructing a 100% accurate, "gold standard" ground truth dataset from the EDGAR Corpus of SEC 10-K filings.
+2.  **Mechanistic Interpretability:** Investigating how models like Llama-3-8B and Llama-3.3-70B retrieve information from long, structured financial contexts. By identifying "retrieval heads" and performing targeted ablation, we aim to causally prove how attention mechanisms operate on naturalistic haystacks.
+
+This work extends upon the foundational findings of the *Beyond the Haystack* paper, integrating newer methodologies for retrieval head identification.
 
 ## Current Status
 
-**Phase 3: Ground Truth Extraction**
+**Phase 4: Mechanistic Interpretability & Attention Ablation**
 
-We are building a 100% accurate ground truth dataset before running shuffling experiments.
+We are actively identifying, ranking, and ablating attention heads using the **Summed Attention** methodology. 
 
-- **Active Work:** `notebooks/extraction/` — per-model extraction notebooks
-- **Models:** Qwen 2.5 32B (1x A100-40GB), Llama 3.3 70B (2x A100 required)
-- **Frameworks:** vLLM and Transformers variants available
+- **Active Work:** `notebooks/experimentation/llama_3_8B_instruct/summed_attention/`
+- **Models:** Llama-3-8B-Instruct (local/Colab) and Llama-3.3-70B-Instruct (Multi-GPU).
+- **Environment:** Google Colab GPUs and Lambda Labs Cloud GPUs (A100-40GB / H100s).
+
+## Pipeline Cycles
+
+### 1. Data Extraction Cycle
+1.  **Ingestion:** Load 10-K filings from HuggingFace (`c3po-ai/edgar-corpus`).
+2.  **Extraction:** Prompt LLMs to extract specific data points (Incorporation State, Employee Count, etc.).
+3.  **Refinement:** Clean, normalize, and validate extracted data against raw text to form a "clean ground truth" dataset.
+
+### 2. Experimentation Cycle (Mechanistic Interpretability)
+1.  **Identification (`01_extract_attention.ipynb`):** Perform forward passes on clean ground truth data to extract raw attention weights and score heads via Summed Attention.
+2.  **Ranking (`02_rank_heads.ipynb`):** Aggregate scores to rank heads per-task and identify globally shared "powerhouse" heads.
+3.  **Ablation (`03_run_ablation.ipynb`):** Causal validation by zeroing out targeted heads during generation on held-out data.
+4.  **Analysis (`04_analysis_visualizations.ipynb`):** Generate heatmaps and metrics to interpret the causal role of identified heads.
 
 ## Directory Structure
 
 ```
 EDGAR-Haystack/
 ├── data/
-│   ├── extracted/           # LLM extraction outputs
-│   └── ground_truth/        # Validated "gold standard" CSVs
+│   ├── clean_ground_truth/  # Cleaned, anchored dataset for experiments
+│   └── retrieval_heads/     # Outputs for the 4-step MI pipeline
+│       ├── 01_extractions/  # Raw attention tensors (.npy)
+│       ├── 02_rankings/     # Ranked JSON lists of heads
+│       ├── 03_ablations/    # Ablation metrics (JSON)
+│       └── 04_analysis_plots/ # Plots and Heatmaps (PNG)
 ├── notebooks/
-│   ├── extraction/          # Ground truth extraction
-│   │   ├── llama_3.3_70B_instruct/
-│   │   ├── qwen_2.5_32B_instruct/
-│   │   └── _archived_prompts/
-│   └── experimentation/     # NIAH shuffling experiments
+│   ├── extraction/          # Ground truth extraction & cleanup
+│   └── experimentation/     # Mechanistic Interpretability (NIAH, Ablation)
+│       └── llama_3_8B_instruct/
+│           └── summed_attention/
 ├── docs/
-│   ├── Beyond_Haystack_RS_Paper.pdf
-│   └── reference/           # Partner's reference code
+│   ├── plan/                # Architecture and pipeline plans
+│   └── reference/           # Research papers and partner code snapshots
 ```
 
-## Data Naming Conventions
+## Quick Start (Hardware Requirements)
 
-| Type             | Format                               | Example                              |
-| ---------------- | ------------------------------------ | ------------------------------------ |
-| **Extracted**    | `{script}_{rows}_{MM-DD-YYYY}.csv`   | `tournament_full_250_12-26-2025.csv` |
-| **Ground Truth** | `v{version}_{rows}_{MM-DD-YYYY}.csv` | `v1_250_1-6-2025.csv`                |
-
-## Quick Start (Lambda Cloud)
-
-### 1. Launch Instance
-
-- **1x A100-40GB** → Qwen 2.5 32B (4-bit quantization)
-- **2x A100-40GB** → Llama 3.3 70B
-
-### 2. Setup (varies by Lambda image and GPU)
-
-#### If using vLLM
-
-```bash
-# If using vLLM (may already be installed depending on image):
-pip install vllm datasets pandas tqdm thefuzz python-Levenshtein
-jupyter lab --ip=0.0.0.0 --port=8888 --no-browser
-```
-
-#### If using transformers
-
-1. Launch IDE on browser
-2. Upload notebook
-3. Run as appropriately
-
-### 3. Run Extraction
-
-1. Open appropriate notebook from `notebooks/extraction/`
-2. For 1x A100-40GB → Use `qwen_2.5_32B_instruct/`
-3. For 2x A100 → Use `llama_3.3_70B_instruct/`
-
-## The Experiment
-
-### Methodology
-
-1. Load 10-K filings from HuggingFace (`c3po-ai/edgar-corpus`)
-2. Create shuffle conditions (none → local → global)
-3. Extract fields (Incorporation State, Employee Count, etc.)
-4. Compare accuracy across conditions
-
-### Key Insight from Paper
-
-Models perform **better** on globally shuffled (incoherent) text for certain tasks — suggesting pattern matching over "reading".
+Specialized hardware is required due to the VRAM footprint of attention extraction:
+- **Llama-3-8B:** A100 (40GB) or L4 (24GB) via Colab or Lambda.
+- **Llama-3.3-70B:** Multi-GPU (2x A100-40GB+) required for full precision extraction.
 
 ## References
 
-- Paper: [Beyond the Haystack](https://aclanthology.org/2025.nllp-1.5.pdf)
+- [Beyond the Haystack](https://aclanthology.org/2025.nllp-1.5.pdf)
+- [Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking](https://arxiv.org/pdf/2404.15574)
+- [Retrieval Head Mechanistically Explains Long-Context Factuality](https://arxiv.org/pdf/2506.09944)
 - Dataset: [c3po-ai/edgar-corpus](https://huggingface.co/datasets/c3po-ai/edgar-corpus)
