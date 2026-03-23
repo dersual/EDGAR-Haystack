@@ -58,6 +58,7 @@ EDGAR-Haystack/
 ## Quick Start (Hardware Requirements)
 
 Specialized hardware is required due to the VRAM footprint of attention extraction:
+
 - **Llama-3-8B:** A100 (40GB) or L4 (24GB) via Colab or Lambda.
 - **Llama-3.3-70B:** Multi-GPU (2x A100-40GB+) required for full precision extraction.
 
