@@ -1,0 +1,8 @@
+{
+  "source_model": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "source_extraction": "llama3-8B_instruct_run_2026-03-21_01-10-12",
+  "timestamp": "2026-03-20_21-55-01",
+  "top_k_heads": 128,
+  "global_top_k_heads": 128,
+  "min_tasks_shared": 7
+}

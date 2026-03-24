@@ -1,0 +1,16 @@
+{
+  "experiment_name": "retrieval_head_ablation",
+  "experiment_run_name": "ablation_2026-03-22_20-46-39",
+  "source_ranking": "rank_2026-03-22_15-17-03",
+  "timestamp": "2026-03-22_20-46-39",
+  "ablation_k_values": [
+    8,
+    16,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "source_model": "meta-llama/Meta-Llama-3-8B-Instruct"
+}

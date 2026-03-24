@@ -1,0 +1,3565 @@
+{
+  "8": {
+    "k": 8,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 32,
+          "accuracy": 0.8205128205128205,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 27,
+          "accuracy": 0.9310344827586207,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 23,
+          "accuracy": 0.7931034482758621,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 8
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 36,
+          "accuracy": 0.9230769230769231,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 27,
+          "accuracy": 0.9310344827586207,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 8
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 37,
+          "accuracy": 0.9487179487179487,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 28,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 24,
+          "accuracy": 0.8275862068965517,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 8
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 37,
+          "accuracy": 0.9487179487179487,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 29,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 28,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 23,
+          "accuracy": 0.7931034482758621,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 8
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 36,
+          "accuracy": 0.9230769230769231,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 28,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 23,
+          "accuracy": 0.7931034482758621,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 8
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 33,
+          "accuracy": 0.8461538461538461,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 28,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 21,
+          "accuracy": 0.6774193548387096,
+          "heads_ablated": 8
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 34,
+          "accuracy": 0.8717948717948718,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 8
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 34,
+          "accuracy": 0.8717948717948718,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 8
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 33,
+          "accuracy": 0.8461538461538461,
+          "heads_ablated": 8
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 8
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 8
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 8
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 8
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 8
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 23,
+          "accuracy": 0.7931034482758621,
+          "heads_ablated": 8
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 8
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 8
+        }
+      }
+    }
+  },
+  "16": {
+    "k": 16,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 32,
+          "accuracy": 0.8205128205128205,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 25,
+          "accuracy": 0.8620689655172413,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 17,
+          "accuracy": 0.5483870967741935,
+          "heads_ablated": 16
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 36,
+          "accuracy": 0.9230769230769231,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 23,
+          "accuracy": 0.7931034482758621,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 16
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 36,
+          "accuracy": 0.9230769230769231,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 16
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 35,
+          "accuracy": 0.8974358974358975,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 27,
+          "accuracy": 0.8709677419354839,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 23,
+          "accuracy": 0.7931034482758621,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 21,
+          "accuracy": 0.6774193548387096,
+          "heads_ablated": 16
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 34,
+          "accuracy": 0.8717948717948718,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 16
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 9,
+          "accuracy": 0.3103448275862069,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 18,
+          "accuracy": 0.6666666666666666,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 24,
+          "accuracy": 0.7741935483870968,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 18,
+          "accuracy": 0.6428571428571429,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 9,
+          "accuracy": 0.9,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 16
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 33,
+          "accuracy": 0.8461538461538461,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 28,
+          "accuracy": 0.9655172413793104,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 20,
+          "accuracy": 0.6896551724137931,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 16
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 9,
+          "accuracy": 0.3103448275862069,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 14,
+          "accuracy": 0.5185185185185185,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 18,
+          "accuracy": 0.5806451612903226,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 17,
+          "accuracy": 0.6071428571428571,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 5,
+          "accuracy": 0.1724137931034483,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 7,
+          "accuracy": 0.7,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 16
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 6,
+          "accuracy": 0.15384615384615385,
+          "heads_ablated": 16
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 9,
+          "accuracy": 0.3103448275862069,
+          "heads_ablated": 16
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 23,
+          "accuracy": 0.8518518518518519,
+          "heads_ablated": 16
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 16
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 16
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 22,
+          "accuracy": 0.7857142857142857,
+          "heads_ablated": 16
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 13,
+          "accuracy": 0.4482758620689655,
+          "heads_ablated": 16
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 16
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 16
+        }
+      }
+    }
+  },
+  "32": {
+    "k": 32,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 27,
+          "accuracy": 0.6923076923076923,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 26,
+          "accuracy": 0.896551724137931,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 29,
+          "accuracy": 0.9354838709677419,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 24,
+          "accuracy": 0.7741935483870968,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 32
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 30,
+          "accuracy": 0.7692307692307693,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 27,
+          "accuracy": 0.9310344827586207,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 27,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 29,
+          "accuracy": 0.9354838709677419,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 28,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 26,
+          "accuracy": 0.896551724137931,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 12,
+          "accuracy": 0.3870967741935484,
+          "heads_ablated": 32
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 30,
+          "accuracy": 0.7692307692307693,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 26,
+          "accuracy": 0.896551724137931,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 25,
+          "accuracy": 0.9259259259259259,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 29,
+          "accuracy": 0.9354838709677419,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 27,
+          "accuracy": 0.8709677419354839,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 24,
+          "accuracy": 0.8275862068965517,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 21,
+          "accuracy": 0.6774193548387096,
+          "heads_ablated": 32
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 28,
+          "accuracy": 0.717948717948718,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 27,
+          "accuracy": 0.9310344827586207,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 29,
+          "accuracy": 0.9354838709677419,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 14,
+          "accuracy": 0.45161290322580644,
+          "heads_ablated": 32
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 29,
+          "accuracy": 0.7435897435897436,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 26,
+          "accuracy": 0.896551724137931,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 27,
+          "accuracy": 0.9642857142857143,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 14,
+          "accuracy": 0.45161290322580644,
+          "heads_ablated": 32
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 14,
+          "accuracy": 0.5,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 5,
+          "accuracy": 0.5,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 32
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 33,
+          "accuracy": 0.8461538461538461,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 26,
+          "accuracy": 0.896551724137931,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 25,
+          "accuracy": 0.9259259259259259,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 27,
+          "accuracy": 0.8709677419354839,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 20,
+          "accuracy": 0.6896551724137931,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 17,
+          "accuracy": 0.5483870967741935,
+          "heads_ablated": 32
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 8,
+          "accuracy": 0.27586206896551724,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 17,
+          "accuracy": 0.6296296296296297,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 21,
+          "accuracy": 0.6774193548387096,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 10,
+          "accuracy": 0.3225806451612903,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 18,
+          "accuracy": 0.6428571428571429,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 8,
+          "accuracy": 0.27586206896551724,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 6,
+          "accuracy": 0.6,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 32
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 3,
+          "accuracy": 0.07692307692307693,
+          "heads_ablated": 32
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 32
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 17,
+          "accuracy": 0.6296296296296297,
+          "heads_ablated": 32
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 18,
+          "accuracy": 0.5806451612903226,
+          "heads_ablated": 32
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 32
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 17,
+          "accuracy": 0.6071428571428571,
+          "heads_ablated": 32
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 32
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 9,
+          "accuracy": 0.9,
+          "heads_ablated": 32
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 32
+        }
+      }
+    }
+  },
+  "48": {
+    "k": 48,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 11,
+          "accuracy": 0.28205128205128205,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 9,
+          "accuracy": 0.3103448275862069,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 18,
+          "accuracy": 0.6666666666666666,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 16,
+          "accuracy": 0.5714285714285714,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 5,
+          "accuracy": 0.1724137931034483,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 8,
+          "accuracy": 0.8,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 3,
+          "accuracy": 0.0967741935483871,
+          "heads_ablated": 48
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 17,
+          "accuracy": 0.4358974358974359,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 19,
+          "accuracy": 0.6551724137931034,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 24,
+          "accuracy": 0.8888888888888888,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 21,
+          "accuracy": 0.6774193548387096,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 24,
+          "accuracy": 0.8571428571428571,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 9,
+          "accuracy": 0.9,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 4,
+          "accuracy": 0.12903225806451613,
+          "heads_ablated": 48
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 25,
+          "accuracy": 0.6410256410256411,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 22,
+          "accuracy": 0.7586206896551724,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 22,
+          "accuracy": 0.8148148148148148,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 25,
+          "accuracy": 0.8928571428571429,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 24,
+          "accuracy": 0.8275862068965517,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 5,
+          "accuracy": 0.16129032258064516,
+          "heads_ablated": 48
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 15,
+          "accuracy": 0.38461538461538464,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 19,
+          "accuracy": 0.6551724137931034,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 23,
+          "accuracy": 0.8518518518518519,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 15,
+          "accuracy": 0.4838709677419355,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 23,
+          "accuracy": 0.8214285714285714,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 21,
+          "accuracy": 0.7241379310344828,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 7,
+          "accuracy": 0.22580645161290322,
+          "heads_ablated": 48
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 27,
+          "accuracy": 0.6923076923076923,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 25,
+          "accuracy": 0.8620689655172413,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 27,
+          "accuracy": 1.0,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 30,
+          "accuracy": 0.967741935483871,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 27,
+          "accuracy": 0.8709677419354839,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 20,
+          "accuracy": 0.6896551724137931,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 10,
+          "accuracy": 1.0,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 10,
+          "accuracy": 0.3225806451612903,
+          "heads_ablated": 48
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 18,
+          "accuracy": 0.6666666666666666,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 10,
+          "accuracy": 0.3225806451612903,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 2,
+          "accuracy": 0.07142857142857142,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 4,
+          "accuracy": 0.4,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 48
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 26,
+          "accuracy": 0.6666666666666666,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 25,
+          "accuracy": 0.8620689655172413,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 26,
+          "accuracy": 0.9629629629629629,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 29,
+          "accuracy": 0.9354838709677419,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 21,
+          "accuracy": 0.75,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 13,
+          "accuracy": 0.4482758620689655,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 8,
+          "accuracy": 0.8,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 48
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 6,
+          "accuracy": 0.20689655172413793,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 16,
+          "accuracy": 0.5925925925925926,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 21,
+          "accuracy": 0.6774193548387096,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 3,
+          "accuracy": 0.10714285714285714,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 2,
+          "accuracy": 0.2,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 48
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 48
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 48
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 14,
+          "accuracy": 0.5185185185185185,
+          "heads_ablated": 48
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 48
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 9,
+          "accuracy": 0.2903225806451613,
+          "heads_ablated": 48
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 17,
+          "accuracy": 0.6071428571428571,
+          "heads_ablated": 48
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 48
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 8,
+          "accuracy": 0.8,
+          "heads_ablated": 48
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 48
+        }
+      }
+    }
+  },
+  "64": {
+    "k": 64,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 14,
+          "accuracy": 0.358974358974359,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 17,
+          "accuracy": 0.5862068965517241,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 22,
+          "accuracy": 0.8148148148148148,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 29,
+          "accuracy": 0.9354838709677419,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 18,
+          "accuracy": 0.6428571428571429,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 10,
+          "accuracy": 0.3448275862068966,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 9,
+          "accuracy": 0.9,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 4,
+          "accuracy": 0.12903225806451613,
+          "heads_ablated": 64
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 19,
+          "accuracy": 0.48717948717948717,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 16,
+          "accuracy": 0.5517241379310345,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 22,
+          "accuracy": 0.8148148148148148,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 26,
+          "accuracy": 0.9285714285714286,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 21,
+          "accuracy": 0.7241379310344828,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 9,
+          "accuracy": 0.9,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 4,
+          "accuracy": 0.12903225806451613,
+          "heads_ablated": 64
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 2,
+          "accuracy": 0.05128205128205128,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 9,
+          "accuracy": 0.3103448275862069,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 11,
+          "accuracy": 0.4074074074074074,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 15,
+          "accuracy": 0.5357142857142857,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 7,
+          "accuracy": 0.7,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 16,
+          "accuracy": 0.5925925925925926,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 14,
+          "accuracy": 0.5,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 6,
+          "accuracy": 0.20689655172413793,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 5,
+          "accuracy": 0.5,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 2,
+          "accuracy": 0.06451612903225806,
+          "heads_ablated": 64
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 6,
+          "accuracy": 0.20689655172413793,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 4,
+          "accuracy": 0.14285714285714285,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 64
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 6,
+          "accuracy": 0.20689655172413793,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 6,
+          "accuracy": 0.21428571428571427,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 4,
+          "accuracy": 0.4,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 14,
+          "accuracy": 0.5185185185185185,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 17,
+          "accuracy": 0.5483870967741935,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 9,
+          "accuracy": 0.2903225806451613,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 2,
+          "accuracy": 0.07142857142857142,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 1,
+          "accuracy": 0.034482758620689655,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 12,
+          "accuracy": 0.3870967741935484,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 5,
+          "accuracy": 0.17857142857142858,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 6,
+          "accuracy": 0.6,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 64
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 64
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 10,
+          "accuracy": 0.3448275862068966,
+          "heads_ablated": 64
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 19,
+          "accuracy": 0.7037037037037037,
+          "heads_ablated": 64
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 26,
+          "accuracy": 0.8387096774193549,
+          "heads_ablated": 64
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 64
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 17,
+          "accuracy": 0.6071428571428571,
+          "heads_ablated": 64
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 15,
+          "accuracy": 0.5172413793103449,
+          "heads_ablated": 64
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 7,
+          "accuracy": 0.7,
+          "heads_ablated": 64
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 64
+        }
+      }
+    }
+  },
+  "96": {
+    "k": 96,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 7,
+          "accuracy": 0.25925925925925924,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 3,
+          "accuracy": 0.0967741935483871,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 1,
+          "accuracy": 0.03571428571428571,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 1,
+          "accuracy": 0.034482758620689655,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 6,
+          "accuracy": 0.2222222222222222,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 4,
+          "accuracy": 0.12903225806451613,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 2,
+          "accuracy": 0.07142857142857142,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 17,
+          "accuracy": 0.6296296296296297,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 14,
+          "accuracy": 0.45161290322580644,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 3,
+          "accuracy": 0.10714285714285714,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 1,
+          "accuracy": 0.034482758620689655,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 1,
+          "accuracy": 0.1,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 5,
+          "accuracy": 0.1724137931034483,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 13,
+          "accuracy": 0.48148148148148145,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 11,
+          "accuracy": 0.3548387096774194,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 4,
+          "accuracy": 0.14285714285714285,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 96
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 11,
+          "accuracy": 0.4074074074074074,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 12,
+          "accuracy": 0.3870967741935484,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 9,
+          "accuracy": 0.2903225806451613,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 8,
+          "accuracy": 0.2857142857142857,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 1,
+          "accuracy": 0.1,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 1,
+          "accuracy": 0.02564102564102564,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 12,
+          "accuracy": 0.41379310344827586,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 20,
+          "accuracy": 0.7407407407407407,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 17,
+          "accuracy": 0.5483870967741935,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 1,
+          "accuracy": 0.03571428571428571,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 96
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 13,
+          "accuracy": 0.4482758620689655,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 18,
+          "accuracy": 0.6666666666666666,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 3,
+          "accuracy": 0.10714285714285714,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 2,
+          "accuracy": 0.2,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 14,
+          "accuracy": 0.5185185185185185,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 23,
+          "accuracy": 0.7419354838709677,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 16,
+          "accuracy": 0.5161290322580645,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 1,
+          "accuracy": 0.1,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 4,
+          "accuracy": 0.10256410256410256,
+          "heads_ablated": 96
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 9,
+          "accuracy": 0.3103448275862069,
+          "heads_ablated": 96
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 96
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 25,
+          "accuracy": 0.8064516129032258,
+          "heads_ablated": 96
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 9,
+          "accuracy": 0.2903225806451613,
+          "heads_ablated": 96
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 96
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 96
+        }
+      }
+    }
+  },
+  "128": {
+    "k": 128,
+    "per_source_task": {
+      "registrant_name": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 12,
+          "accuracy": 0.4444444444444444,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 18,
+          "accuracy": 0.5806451612903226,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "headquarters_city": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 13,
+          "accuracy": 0.48148148148148145,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 4,
+          "accuracy": 0.12903225806451613,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "headquarters_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 3,
+          "accuracy": 0.10344827586206896,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 8,
+          "accuracy": 0.2962962962962963,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 13,
+          "accuracy": 0.41935483870967744,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 5,
+          "accuracy": 0.16129032258064516,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 2,
+          "accuracy": 0.07142857142857142,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "incorporation_state": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 9,
+          "accuracy": 0.3333333333333333,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 12,
+          "accuracy": 0.3870967741935484,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 1,
+          "accuracy": 0.03571428571428571,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "incorporation_year": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 7,
+          "accuracy": 0.2413793103448276,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 12,
+          "accuracy": 0.4444444444444444,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 1,
+          "accuracy": 0.03225806451612903,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "employees_count_total": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 5,
+          "accuracy": 0.1724137931034483,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 20,
+          "accuracy": 0.6451612903225806,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 6,
+          "accuracy": 0.1935483870967742,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "holder_record_amount": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 6,
+          "accuracy": 0.20689655172413793,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 10,
+          "accuracy": 0.37037037037037035,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 14,
+          "accuracy": 0.45161290322580644,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "employees_count_full_time": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 4,
+          "accuracy": 0.13793103448275862,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 15,
+          "accuracy": 0.5555555555555556,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 19,
+          "accuracy": 0.6129032258064516,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 6,
+          "accuracy": 0.1935483870967742,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      },
+      "ceo_lastname": {
+        "registrant_name": {
+          "attempts": 39,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "headquarters_city": {
+          "attempts": 29,
+          "matches": 2,
+          "accuracy": 0.06896551724137931,
+          "heads_ablated": 128
+        },
+        "headquarters_state": {
+          "attempts": 27,
+          "matches": 10,
+          "accuracy": 0.37037037037037035,
+          "heads_ablated": 128
+        },
+        "incorporation_state": {
+          "attempts": 31,
+          "matches": 22,
+          "accuracy": 0.7096774193548387,
+          "heads_ablated": 128
+        },
+        "incorporation_year": {
+          "attempts": 31,
+          "matches": 7,
+          "accuracy": 0.22580645161290322,
+          "heads_ablated": 128
+        },
+        "employees_count_total": {
+          "attempts": 28,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "holder_record_amount": {
+          "attempts": 29,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "employees_count_full_time": {
+          "attempts": 10,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        },
+        "ceo_lastname": {
+          "attempts": 31,
+          "matches": 0,
+          "accuracy": 0.0,
+          "heads_ablated": 128
+        }
+      }
+    }
+  }
+}

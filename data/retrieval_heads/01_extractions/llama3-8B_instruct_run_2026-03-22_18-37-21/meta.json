@@ -1,0 +1,7 @@
+{
+  "model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "target_seq_len": 7000,
+  "split": 0.8,
+  "split_seed": 42,
+  "timestamp": "2026-03-22_18-37-21"
+}
